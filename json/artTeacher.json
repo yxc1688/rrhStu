@@ -1,0 +1,799 @@
+[
+	{
+		"picSrc" : "../images/index/Teacher1.jpg",
+		"teacherFirstName" : "魏老师",
+		"schoolName" : "悉尼大学",
+		"schoolType" : "数字传媒 | 电子交互艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher2.jpg",
+		"teacherFirstName" : "魏老师",
+		"schoolName" : "悉尼大学",
+		"schoolType" : "数字传媒 | 电子交互艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher3.jpg",
+		"teacherFirstName" : "魏老师",
+		"schoolName" : "悉尼大学",
+		"schoolType" : "数字传媒 | 电子交互艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher4.jpg",
+		"teacherFirstName" : "魏老师",
+		"schoolName" : "悉尼大学",
+		"schoolType" : "数字传媒 | 电子交互艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "魏老师",
+		"schoolName" : "悉尼大学",
+		"schoolType" : "数字传媒 | 电子交互艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "魏老师",
+		"schoolName" : "悉尼大学",
+		"schoolType" : "数字传媒 | 电子交互艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "魏老师",
+		"schoolName" : "悉尼大学",
+		"schoolType" : "数字传媒 | 电子交互艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "张老师",
+		"schoolName" : "帕森斯设计学院",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "王老师",
+		"schoolName" : "美国纽约视觉艺术学院",
+		"schoolType" : "电脑动画艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "王老师",
+		"schoolName" : "伯明翰城市大学珠宝学院",
+		"schoolType" : "珠宝设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "熊老师",
+		"schoolName" : "坎伯韦尔艺术学院 UAL-Camberwell",
+		"schoolType" : "书籍艺术 | 平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "王老师",
+		"schoolName" : "英国谢菲尔德大学",
+		"schoolType" : "城市设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "王老师",
+		"schoolName" : "英国德蒙福特大学",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "李老师",
+		"schoolName" : "美国纽约室内设计学院",
+		"schoolType" : "室内设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "席老师",
+		"schoolName" : "伦敦大学学院",
+		"schoolType" : "建筑设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "曾老师",
+		"schoolName" : "伦敦时装学院 UAL-LCF",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "凌老师",
+		"schoolName" : "中央圣马丁艺术学院 UAL-CSM",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "黄老师",
+		"schoolName" : "坎伯韦尔艺术学院 UAL-Camberwell",
+		"schoolType" : "书籍艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "于老师",
+		"schoolName" : "皇家艺术学院",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "任老师",
+		"schoolName" : "萨凡纳艺术与设计学院",
+		"schoolType" : "设计管理"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "于老师",
+		"schoolName" : "加拿大阿尔伯塔艺术设计学院",
+		"schoolType" : "油画 | 插画设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "Timothy",
+		"schoolName" : "美国纽约视觉艺术学院",
+		"schoolType" : "插画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "唐老师",
+		"schoolName" : "阿德莱德大学",
+		"schoolType" : "景观建筑专业"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "张老师",
+		"schoolName" : "萨凡纳艺术与设计学院",
+		"schoolType" : "珠宝设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "蒲老师",
+		"schoolName" : "伦敦传媒学院 UAL-LCC",
+		"schoolType" : "视觉传达"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "王老师",
+		"schoolName" : "中央圣马丁艺术学院 UAL-CSM",
+		"schoolType" : "工业设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "陈老师",
+		"schoolName" : "皇家艺术学院",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "赵老师",
+		"schoolName" : "芝加哥艺术学院",
+		"schoolType" : "数字媒体"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "董老师",
+		"schoolName" : "日本文化服装学院",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "雷老师",
+		"schoolName" : "考文垂大学",
+		"schoolType" : "交通工具设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "杨老师",
+		"schoolName" : "德国阿兰努斯艺术大学",
+		"schoolType" : "自由艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "吴老师",
+		"schoolName" : "爱丁堡艺术学院",
+		"schoolType" : "室内设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "刘老师",
+		"schoolName" : "芝加哥艺术学院",
+		"schoolType" : "建筑学"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "刘老师",
+		"schoolName" : "罗德岛设计学院",
+		"schoolType" : "室内设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "吴老师",
+		"schoolName" : "旧金山艺术大学",
+		"schoolType" : "平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "文老师",
+		"schoolName" : "新加坡国立大学建筑与环境学院 ",
+		"schoolType" : "城市设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "易老师",
+		"schoolName" : "切尔西艺术与设计学院 UAL-Chelsea",
+		"schoolType" : "室内与空间设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "周老师",
+		"schoolName" : "伦敦时装学院 UAL-LCF",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "张老师",
+		"schoolName" : "皇家艺术学院",
+		"schoolType" : "当代艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "李老师",
+		"schoolName" : "意大利米兰新美术学院",
+		"schoolType" : "绘画与视觉艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "李老师",
+		"schoolName" : "格拉斯哥艺术学院",
+		"schoolType" : "室内设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "黄老师",
+		"schoolName" : "萨凡纳艺术与设计学院",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "杨老师",
+		"schoolName" : "切尔西艺术与设计学院 UAL- Chelsea",
+		"schoolType" : "室内与空间设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "王老师",
+		"schoolName" : "帕森斯设计学院",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "陈老师",
+		"schoolName" : "罗德岛设计学院",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "刘老师",
+		"schoolName" : "格拉斯哥艺术学院",
+		"schoolType" : "产品/工业设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "沙老师",
+		"schoolName" : "诺丁汉大学",
+		"schoolType" : "建筑学"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "付老师",
+		"schoolName" : "伦敦传媒学院 UAL- LCC",
+		"schoolType" : "动画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "汪老师",
+		"schoolName" : "坎伯韦尔艺术学院 UAL-Camberwell",
+		"schoolType" : "插画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "孟老师",
+		"schoolName" : "伦敦大学金史密斯学院",
+		"schoolType" : "摄影"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "苏老师",
+		"schoolName" : "亚利桑那州立大学",
+		"schoolType" : "工业设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "任老师",
+		"schoolName" : "中央圣马丁艺术与设计学院 UAL-CSM",
+		"schoolType" : "视觉传达"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "赵老师",
+		"schoolName" : "米兰理工大学",
+		"schoolType" : "产品创新设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "罗老师",
+		"schoolName" : "纽约时装学院",
+		"schoolType" : "插画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "周老师",
+		"schoolName" : "皇家艺术学院",
+		"schoolType" : "当代艺术实践系"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "牟老师",
+		"schoolName" : "坎伯韦尔艺术学院 UAL-Camberwell",
+		"schoolType" : "书籍艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "刘老师",
+		"schoolName" : "中央圣马丁艺术与设计学院 UAL-CSM",
+		"schoolType" : "平面传播设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "林老师",
+		"schoolName" : "普瑞特艺术学院",
+		"schoolType" : "动画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "黎老师",
+		"schoolName" : "伦敦大学金匠学院",
+		"schoolType" : "交互设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "鲍老师",
+		"schoolName" : "伦敦时装学院 UAL-LCF",
+		"schoolType" : "时尚创意剪裁"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "白老师",
+		"schoolName" : "南安普顿大学",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "王老师",
+		"schoolName" : "创意艺术大学",
+		"schoolType" : "平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "牛老师",
+		"schoolName" : "巴黎国际制版学院AICP",
+		"schoolType" : "女装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "卢老师",
+		"schoolName" : "博洛尼亚美术学院",
+		"schoolType" : "动画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "李老师",
+		"schoolName" : "伯明翰艺术设计学院",
+		"schoolType" : "景观建筑学"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "范老师",
+		"schoolName" : "罗彻斯特理工学院",
+		"schoolType" : "产品/工业设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "刘老师",
+		"schoolName" : "温布尔登艺术学院 UAL-Wimbledon",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "姜老师",
+		"schoolName" : "芝加哥艺术学院",
+		"schoolType" : "视觉传达"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "靳老师",
+		"schoolName" : "伯恩茅斯艺术大学",
+		"schoolType" : "插画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "战老师",
+		"schoolName" : "帕森斯设计学院",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "赵老师",
+		"schoolName" : "切尔西艺术与设计学院 UAL- Chelsea",
+		"schoolType" : "平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "王老师",
+		"schoolName" : "芝加哥艺术学院",
+		"schoolType" : "插画 | 平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "周老师",
+		"schoolName" : "帕森斯设计学院",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "张老师",
+		"schoolName" : "罗彻斯特理工学院",
+		"schoolType" : "工业设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "孟老师",
+		"schoolName" : "伦敦传媒学院 UAL-LCC",
+		"schoolType" : "摄影"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "刘老师",
+		"schoolName" : "考文垂大学 ",
+		"schoolType" : "产品/工业设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "何老师",
+		"schoolName" : "谢菲尔德大学",
+		"schoolType" : "景观设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "郑老师",
+		"schoolName" : "英国爱丁堡大学",
+		"schoolType" : "插画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "李老师",
+		"schoolName" : "南安普顿大学",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "赵老师",
+		"schoolName" : "德蒙福特大学",
+		"schoolType" : "建筑设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "董老师",
+		"schoolName" : "伦敦传媒学院 UAL- LCC",
+		"schoolType" : "平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "关老师",
+		"schoolName" : "伯明翰城市大学",
+		"schoolType" : "室内设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "冉老师",
+		"schoolName" : "诺丁汉特伦特大学",
+		"schoolType" : "时尚管理"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "戴老师",
+		"schoolName" : "美国纽约电影学院",
+		"schoolType" : "摄影"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "刘老师",
+		"schoolName" : "俄罗斯列宾美术学院",
+		"schoolType" : "绘画专业"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "陆老师",
+		"schoolName" : "美国波尔州立大学",
+		"schoolType" : "景观建筑学"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "黄老师",
+		"schoolName" : "英国伯明翰城市大学珠宝学院",
+		"schoolType" : "珠宝设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "张老师",
+		"schoolName" : "金斯顿大学",
+		"schoolType" : "当代艺术策展设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "吴老师",
+		"schoolName" : "切尔西艺术与设计学院 UAL- Chelsea",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "李老师",
+		"schoolName" : "伯明翰城市大学",
+		"schoolType" : "视觉传达"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "徐老师",
+		"schoolName" : "巴黎高等应用艺术学院LISSA",
+		"schoolType" : "动态设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "黄老师",
+		"schoolName" : "切尔西艺术与设计学院 UAL- Chelsea",
+		"schoolType" : "纺织设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "韩老师",
+		"schoolName" : "荷兰 AKV|St.joost 艺术学院",
+		"schoolType" : "平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "彭老师",
+		"schoolName" : "普瑞特艺术学院",
+		"schoolType" : "视觉传达"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "段老师",
+		"schoolName" : "伯明翰城市大学珠宝学院",
+		"schoolType" : "珠宝设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "王老师",
+		"schoolName" : "伦敦传媒学院 UAL-LCC",
+		"schoolType" : "游戏设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "杜老师",
+		"schoolName" : "布莱顿大学",
+		"schoolType" : "插画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "包老师",
+		"schoolName" : "切尔西艺术与设计学院 UAL- Chelsea",
+		"schoolType" : "视觉传达"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "李老师",
+		"schoolName" : "美国俄亥俄州立大学",
+		"schoolType" : "工业设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "李老师",
+		"schoolName" : "加州艺术学院 CalArts",
+		"schoolType" : "摄影"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "吴老师",
+		"schoolName" : "悉尼大学",
+		"schoolType" : "电影"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "李老师",
+		"schoolName" : "敦刻尔克高等美术学院",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "李老师",
+		"schoolName" : "纽约视觉艺术学院",
+		"schoolType" : "插画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "林老师",
+		"schoolName" : "英国谢菲尔德大学",
+		"schoolType" : "景观设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "季老师",
+		"schoolName" : "皇家艺术学院",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "张老师",
+		"schoolName" : "伦敦传媒学院 UAL- LCC",
+		"schoolType" : "插画与视觉媒体"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "张老师",
+		"schoolName" : "坎伯韦尔艺术学院 UAL-Camberwell",
+		"schoolType" : "视觉传达"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "叶老师",
+		"schoolName" : "谢菲尔德哈勒姆大学艺术学院",
+		"schoolType" : "产品设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "徐老师",
+		"schoolName" : "帕森斯设计学院",
+		"schoolType" : "平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "苏老师",
+		"schoolName" : "意大利佛罗伦萨美术学院",
+		"schoolType" : "装饰绘画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "刘老师",
+		"schoolName" : "考文垂大学",
+		"schoolType" : "工业产品设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "金老师",
+		"schoolName" : "伯明翰城市大学艺术与设计学院",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "黄老师",
+		"schoolName" : "纽约视觉艺术学院",
+		"schoolType" : "电脑艺术专业"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "郭老师",
+		"schoolName" : "布鲁内尔大学",
+		"schoolType" : "产品设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "董老师",
+		"schoolName" : "哈德斯菲尔德艺术学院",
+		"schoolType" : "平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "邸老师",
+		"schoolName" : "纽约视觉艺术学院",
+		"schoolType" : "平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "曾老师",
+		"schoolName" : "英国拉夫堡大学",
+		"schoolType" : "插画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "赵老师",
+		"schoolName" : "中央圣马丁艺术学院 UAL-CSM",
+		"schoolType" : "表演设计与实践"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "Rossi",
+		"schoolName" : "多莫斯设计学院",
+		"schoolType" : "产品设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "夏老师",
+		"schoolName" : "法国贝桑松高等美术学院",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "唐老师",
+		"schoolName" : "新南威尔士大学",
+		"schoolType" : "建筑设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "林老师",
+		"schoolName" : "波士顿大学",
+		"schoolType" : "平面设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "林老师",
+		"schoolName" : "伦敦金斯顿大学 ",
+		"schoolType" : "电影"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "廖老师",
+		"schoolName" : "英国南安普敦大学 ",
+		"schoolType" : "服装设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "Stacey老师",
+		"schoolName" : "澳大利亚格里菲斯大学",
+		"schoolType" : "视觉传达"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "邓老师",
+		"schoolName" : "新西兰林肯大学",
+		"schoolType" : "景观设计"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "虞老师",
+		"schoolName" : "加拿大谢尔丹学院",
+		"schoolType" : "动画"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "余老师",
+		"schoolName" : "康奈尔大学",
+		"schoolType" : "纯艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "吴老师",
+		"schoolName" : "马兰欧尼时装学院",
+		"schoolType" : "时尚营销传媒与传播"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "沈老师",
+		"schoolName" : "纽约视觉艺术学院",
+		"schoolType" : "视觉传达"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "凌老师",
+		"schoolName" : "乌尔比诺美术学院",
+		"schoolType" : "装饰艺术"
+	},
+	{
+		"picSrc" : "../images/index/Teacher5.jpg",
+		"teacherFirstName" : "董老师",
+		"schoolName" : "美国新泽西理工 NJIT",
+		"schoolType" : "建筑设计"
+	}
+]
+
+
+
+
+

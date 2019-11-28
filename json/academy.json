@@ -1,0 +1,313 @@
+[
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school1.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+		
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school2.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+		
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school3.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+		
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school4.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+		
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school5.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+		
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school6.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school7.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school8.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school9.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school10.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school11.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school12.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school13.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school14.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school15.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school16.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school17.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	},
+	{
+		"src" : "#",
+		"imgSrc" : "../images/academy/school18.jpg",
+		"schoolName" : "罗德岛设计学院" ,
+		"difficulty" : "5.0",
+		"starNum" : [
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png",
+			"../images/academy/pic154.png"
+		],
+		"goodMajor" : "工业设计 | 平面设计 | 插画设计 | 摄影专业",
+		"TuoScore" : "93",
+		"YaScore" : "6.5",
+		"attendSchool" : "私立艺术大学"
+	}
+]

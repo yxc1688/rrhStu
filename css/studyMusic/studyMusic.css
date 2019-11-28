@@ -1,0 +1,697 @@
+/* banner begin */
+.banner{
+	width:100%;
+	height:484px;
+}
+.banner img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+/* banner end */
+/* abroadWork begin */
+.abroadWork{
+	width:100%;
+}
+.abroadWork .abroadWorkMin{
+	width:1200px;
+	margin:0 auto;
+	padding:40px 0 80px;
+}
+.abroadWork .abroadWorkMin .img{
+	float:left;
+	width:360px;
+	height:360px;
+	margin-left:100px;
+}
+.abroadWork .abroadWorkMin .img img{
+	display: block;
+	width:100%;
+	height:100%;
+}
+.abroadWork .abroadWorkMin .text{
+	float:left;
+	width:590px;
+    margin-left:50px;
+    padding-top:40px;
+}
+.abroadWork .abroadWorkMin .text h2{
+	font-size:26px;
+	line-height:26px;
+	padding:0 10px 0 20px;
+	color:#e8444d;
+	font-weight:300;
+}
+.abroadWork .abroadWorkMin .text p{
+	width:548px;
+    font-size:14px;
+    line-height:25px;
+    padding:19px 20px;
+    border:1px dashed #fccccc;
+    margin-top:20px!important;
+    color:#333;
+}
+/* abroadWork bend */
+/* ethosReason begin */
+.ethosReason{
+	width:100%;
+}
+.ethosReason .ethosReasonBig{
+	width:1200px;
+	margin:0 auto;
+	padding:20px 0;
+	overflow:hidden;
+}
+.ethosReason .ethosReasonMin{
+	position:relative;
+	width:1200px;
+	padding:50px 0;
+	box-shadow:0 0 20px 1px rgba(51,51,51,0.15);
+}
+.ImgTitle .pic{
+	position:absolute;
+	left:50%;
+	transform:translateX(-50%);
+	width:322px;
+	height:50px;
+}
+.ImgTitle .pic img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.ImgTitle .titie{
+	text-align:center;
+	font-size:26px;
+	line-height:42px;
+	font-weight:300;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul{
+	margin-top:30px;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul li{
+	float:left;
+	width:300px;
+	height:400px;
+	background:#fff;
+	cursor:pointer;
+	transition:.6s;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul li .img{
+	width:300px;
+	height:200px;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul li img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul li .text{
+	width:210px;
+	height:150px;
+	margin:50px auto 0;
+	text-align:center;
+	font-weight:300;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul li .text h2{
+	font-size:20px;
+    line-height:30px;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul li .text .line{
+	width:26px;
+	height:1px;
+    margin:10px auto 12px!important;
+    background:#333;
+    transition:.6s;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul li .text .page{
+	font-size:14px;
+    line-height:20px;
+    transition:.6s;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul li:hover{
+	background:#e8444d;
+}    
+.ethosReason .ethosReasonMin .ethosReasonList ul li:hover .text h2{
+	color:#fff;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul li:hover .text .line{
+	background:#fff;
+	color:#666;
+}
+.ethosReason .ethosReasonMin .ethosReasonList ul li:hover .text .page{
+	color:#fff;
+}
+/* ethosReason end */
+/* courseDescription begin */
+.courseDescription{
+	width:100%;
+}
+.courseDescription .courseDescriptionMin{
+	position:relative;
+	width:1200px;
+	margin:80px auto 0;
+}
+.courseDescription.ImgTitle .pic{
+	width:240px;
+}
+.courseDescription .courseDescriptionMin .courseDescriptionList ul li{
+	float:left;
+	width:184px;
+	padding:20px;
+    height:218px;
+    margin:30px 8px 0;
+    box-sizing:content-box;
+    box-shadow:0px 0px 20px 1px rgba(51,51,51,0.15);
+    font-weight:300!important;
+    transition:.6s;
+}
+.courseDescription .courseDescriptionMin .courseDescriptionList ul li h5{
+	height:20px;
+    font-size:20px;
+    line-height:20px;
+    padding-top:5px;
+    color:#e8444d;
+    font-weight:300;
+}
+.courseDescription .courseDescriptionMin .courseDescriptionList ul li .englishTitle{
+	height:12px;
+    font-size:12px;
+    line-height:12px;
+    margin-top:6px!important;
+    color:#e8444d;
+} 
+.courseDescription .courseDescriptionMin .courseDescriptionList ul li .img{
+	width:184px;
+	height:71px;
+	margin-top:14px;
+}
+.courseDescription .courseDescriptionMin .courseDescriptionList ul li img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.courseDescription .courseDescriptionMin .courseDescriptionList ul li .page{
+	font-size:12px;
+    line-height:20px;
+    margin-top:12px!important;
+    color:#333;
+}
+.courseDescription .courseDescriptionMin .courseDescriptionList ul li:hover{
+	margin-top:15px;
+}
+/* courseDescription end */
+/* distinction begin */
+.distinction{
+	width:100%;
+	margin-top:80px;
+}
+.distinction .distinctionMin{
+	position:relative;
+	width:1200px;
+	height:446px;
+	margin-top:60px;
+	margin:0 auto;
+	background:url(../../images/studyMusic/yylx_qb_bg.jpg) no-repeat center center;
+	background-size:cover;
+	
+}
+.distinction.ImgTitle .pic{
+	width:501px;
+	margin-top:56px;
+}
+.distinction.ImgTitle .titie{
+	padding-top:56px;
+	color:#fff;
+}
+.distinction .distinctionMin .distinctionList{
+	width:492px;
+    height:131px;
+    margin:20px auto 0;
+    padding:30px 40px;
+    background:rgba(246,113,120,0.15);
+    box-sizing:content-box;
+}
+.distinction .distinctionMin .distinctionList div{
+	float:left;
+	width:246px;
+	color:#fff;
+}
+.distinction .distinctionMin .distinctionList div h5{
+	font-size:20px;
+    line-height:20px;
+    padding-bottom:7px;
+    color:#fff;
+    font-weight:300;	
+}
+.distinction .distinctionMin .distinctionList div ul li{
+	font-size:14px;
+    line-height:14px;
+    margin-top:13px;
+    padding-left:20px;
+    background:url(../../images/studyMusic/yylx_qb_xz.png) no-repeat left center;
+    background-size: 16px 14px;
+    color:#b2b2b2;
+}
+.distinction .distinctionMin .hint{
+	text-align:center;
+    color:#e8444d;
+    font-size:14px;
+    line-height:14px;
+    margin:10px auto 0!important;
+}        
+/* distinction end */
+/* teacherIntroduce begin */
+.teacherIntroduce{
+	width:100%;
+}
+.teacherIntroduce .teacherIntroduceMin{
+	width:1200px;
+	margin:0 auto;
+	padding:80px 0;
+}
+.teacherIntroduce.ImgTitle .pic{
+	width:204px;
+}
+.teacherIntroduce .box{
+	text-align:center;
+	margin:0 auto;
+}
+.teacherIntroduce .img{
+	position:relative;
+	width:140px;
+	height:140px;
+	margin:0 auto;
+}
+.teacherIntroduce img{
+	display:block;
+	width:100%;
+	height:100%;
+	text-align:center;
+}
+.teacherIntroduce .askQuestions{
+	display:none;
+	width:140px;
+	height:140px;
+	font-size:14px;
+    line-height:140px;
+    color:#fff;
+	position:absolute;
+    z-index:10;
+    top:0;
+    border-radius:50%;
+    background-color:rgba(48,45,44,0.7);
+}
+.teacherIntroduce .img:hover .askQuestions{
+	display:block;
+}
+.teacherIntroduce .teacherIntroduceSlide{
+	position:relative;
+}
+.teacherIntroduce .controlBtn{
+	width:32px!important;
+	height:58px!important;
+	margin-right:0!important;
+}
+.teacherIntroduce .controlBtn img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.teacherIntroduce .controlBtn.prev{
+	position:absolute;
+	left:-30px;
+	top:25%;
+}
+.teacherIntroduce .controlBtn.next{
+	position:absolute;
+	right:-30px;
+	top:25%;
+}
+.teacherIntroduce .askQuestions{
+	font-size:1px!important;
+}
+.teacherIntroduce .appraise{
+	position:relative;
+	display:inline-block;
+	z-index:200;
+	height:32px;
+    margin:-15px auto 0;
+}
+.teacherIntroduce .appraise img{
+	float:left;
+	display:block;
+    width:33px;
+    height:32px;
+}
+.teacherIntroduce .appraise .appraiseChina{
+    font-size:12px;
+    line-height:26px;
+	color:#fff;
+    float:left;
+    background:url(../../images/studyMusic/yyls_szjs_bg_c.png) repeat;
+}
+.teacherIntroduce .swiper-container{
+	width:1100px;
+    margin-top: 30px;
+}
+.teacherIntroduce  .musicTeacher{
+	height:304px;
+    margin-top:30px;
+}
+.teacherIntroduce  .musicTeacher ul li{
+	width:194px;
+    padding:15px;
+	float:left;
+	margin:0 8px;
+	box-sizing:content-box;
+	box-shadow:0px 0px 20px 1px rgba(51,51,51,0.15);
+	cursor:pointer;
+}  
+.teacherIntroduce  .musicTeacher ul li .img{
+	position:relative;
+	width:194px;
+    height:194px;
+}
+.teacherIntroduce  .musicTeacher ul li img{
+	display:block;
+	width:100%;
+	height:100%;
+} 
+.teacherIntroduce  .musicTeacher ul li .borderLine{
+	display:none;
+	position:absolute;
+	top:0;
+	width:194px;
+    height:194px;
+    border:3px solid #e8444d;
+    transition:.5s;
+}
+.teacherIntroduce  .musicTeacher ul li p{
+	color:#333;
+	transition:.5s;
+}
+.teacherIntroduce  .musicTeacher ul li .teacherName{
+	font-size:20px;
+    line-height:20px;
+    margin-top:20px!important;
+}
+.teacherIntroduce  .musicTeacher ul li .teacherMajor,
+.teacherIntroduce  .musicTeacher ul li .teacherSchool{
+	font-size:12px;
+    line-height:12px;
+    margin-top:7px!important;
+}
+.teacherIntroduce  .musicTeacher ul li:hover p{
+	color:#e8444d;
+}
+.teacherIntroduce  .musicTeacher ul li:hover .borderLine{
+	display:block;
+}
+/* teacherIntroduce end */
+/* caseSuccess begin */
+.caseSuccess{
+	width:100%;
+}
+.caseSuccess .caseSuccessMin{
+	width:1200px;
+	height:716px;
+	margin:0 auto;
+	background:url(../../images/studyMusic/yyls_cgal_bg.jpg) no-repeat center center;
+	background-size:cover;
+}
+.caseSuccess.ImgTitle .pic{
+	width:204px;
+	margin-top:50px;
+}
+.caseSuccess.ImgTitle .titie{
+	padding-top:50px;
+	color:#fff;
+}
+.caseSuccess .caseSuccessMin ul{
+	width:1000px;
+    height:474px;
+    margin:50px auto 0
+}
+.caseSuccess .caseSuccessMin ul li{
+	position:relative;
+	width:200px;
+    margin-bottom:40px;
+    float:left;
+}
+.caseSuccess .caseSuccessMin ul li .img{
+	width:136px;
+	height:180px;
+	margin:0 auto;
+}
+.caseSuccess .caseSuccessMin ul li img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.caseSuccess .caseSuccessMin ul li .offerSchool{
+	font-size:18px;
+    line-height:18px;
+    color:#fff;
+    text-align:center;
+    margin-top:15px!important;
+}
+.caseSuccess .caseSuccessMin ul li .singType{
+	font-size:14px;
+    line-height:14px;
+    color:#999;
+    text-align:center;
+    margin-top:10px!important;
+}
+.caseSuccess .caseSuccessMin ul li .singType span{
+	color:#dc2731;
+}
+.caseSuccess .caseSuccessMin ul li .float{
+	position:absolute;
+	right:3px;
+	top:-20px;
+	width:56px;
+	height:56px;
+	background:#dc2731;
+    padding:8px 0;
+    font-size:14px;
+    line-height:20px;
+    text-align:center;
+    color:#fff;
+    border-radius:100%;
+}
+/* caseSuccess end */
+/* musicMajor begin */
+.musicMajor{
+	width:100%;
+}
+.musicMajor .musicMajorMin{
+	width:1200px;
+	margin:0 auto;
+	padding:80px 0 50px 0;
+}
+.musicMajor.ImgTitle .pic{
+	width:204px;
+}
+.musicMajor .musicMajorMin .musicMajorList{
+	padding-top:20px;
+}
+.musicMajor .musicMajorMin .musicMajorList ul li{
+	position:relative;
+	float:left;
+	width:224px;
+	height:128px;
+	margin:10px 8px;
+}
+.musicMajor .musicMajorMin .musicMajorList ul li img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.musicMajor .musicMajorMin .musicMajorList ul li .musical{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+.musicMajor .musicMajorMin .musicMajorList ul li .musical .China{
+	font-size:20px;
+    line-height:20px;
+    margin-top:44px!important;
+    text-align:center;
+    color:#fff;
+}
+.musicMajor .musicMajorMin .musicMajorList ul li .musical .England{
+	font-size:14px;
+    line-height:14px;
+    margin-top:8px!important;
+    color:#fff;
+    text-align:center;
+}
+/* musicMajor end */
+/* musicPortfolio begin */
+.musicPortfolio{
+	width:100%;
+}
+.musicPortfolio .musicPortfolioMin{
+	width:1200px;
+	height:506px;
+	margin:50px auto 0;
+	background:url(../../images/studyMusic/yylx_zq_bg.jpg) no-repeat center center;
+	background-size:cover;
+}
+.musicPortfolio.ImgTitle .pic{
+	width:204px;
+}
+.musicPortfolio .musicPortfolioMin .musicPortfolioList{
+	width:900px;
+	margin:50px 0 0 90px;
+}
+.musicPortfolio .musicPortfolioMin .musicPortfolioList ul li{
+	float:left;
+	width:230px;
+    margin:0 35px;
+}
+.musicPortfolio .musicPortfolioMin .musicPortfolioList ul li h6{
+	font-weight:300;
+	font-size:20px;
+    line-height:20px;
+    margin-top:14px!important;
+}
+.musicPortfolio .musicPortfolioMin .musicPortfolioList ul li .simpleIntro{
+    font-size:14px;
+    line-height:20px;
+    margin-top:12px!important; 
+}
+.musicPortfolio .musicPortfolioMin .musicPortfolioList ul li .smallIntro{
+    font-size:12px;
+    line-height:12px;
+    margin-top:15px!important;
+    color:#dc2731;
+}
+/* musicPortfolio end */
+/* teachingService begin */
+.teachingService{
+	width:100%;
+}
+.teachingService .teachingServiceMin{
+	width:1200px;margin:80px auto 55px;
+}
+.teachingService.ImgTitle .pic{
+	width:296px;
+}
+.teachingService .teachingServiceMin .teachingServiceList{
+	width:1230px;
+    height:428px;
+    margin:45px 0 0 -15px;
+}
+.teachingService .teachingServiceMin .teachingServiceList ul li{
+	position:relative;
+	float:left;
+	width:196px;
+    padding:20px 0 20px 20px;
+    margin:25px 15px;
+    box-shadow:0px 0px 20px 1px rgba(220,39,49,0.15);
+    box-sizing:content-box;
+}
+.teachingService .teachingServiceMin .teachingServiceList ul li .float{
+	position:relative;
+	position:absolute;
+	top:-20px;
+    left:20px;
+	width:50px;
+	height:50px;
+}
+.teachingService .teachingServiceMin .teachingServiceList ul li .float .img{
+    width:50px;
+	height:50px;
+}
+.teachingService .teachingServiceMin .teachingServiceList ul li .float img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.teachingService .teachingServiceMin .teachingServiceList ul li .float .num{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	text-align:center;
+	font-size:24px;
+    line-height:42px;
+    color:#fff;
+}
+.teachingService .teachingServiceMin .teachingServiceList ul li h4{
+	font-size:20px;
+    line-height:20px;
+    margin-top:30px!important;
+    font-weight:300;
+}
+.teachingService .teachingServiceMin .teachingServiceList ul li p{
+    font-size:12px;
+    line-height:20px;
+    margin-top:14px!important;
+}
+/* teachingService end */
+/* collegesRecommend begin */
+.collegesRecommend{
+	width:100%;
+}
+.collegesRecommend .collegesRecommendMin{
+	width:1200px;
+	height:594px;
+	margin:0 auto 80px;
+	background:url(../../images/studyMusic/yylx_yxtj_bg.jpg) no-repeat center center;
+	background-size:cover;
+	box-sizing:content-box;
+}
+.collegesRecommend.ImgTitle .pic{
+	width:204px;
+	margin-top:50px;
+}
+.collegesRecommend.ImgTitle h2{
+	padding-top:50px;
+	color:#fff;
+}
+.collegesRecommend .collegesRecommendMin .collegesRecommendList{
+	width:1150px;
+	margin:0 auto;
+}
+.collegesRecommend .collegesRecommendMin ul li{
+	float:left;
+	width:230px;
+    padding-top:30px;
+    box-sizing:content-box;
+    text-align:center;
+}
+.collegesRecommend .collegesRecommendMin ul li .img{
+	width:140px;
+    height:140px;
+    margin:0 auto;
+    border-radius:50%;
+    overflow:hidden;
+}
+.collegesRecommend .collegesRecommendMin ul li img{
+	display:block;
+	width:100%;
+	height:100%;
+	transition:.5s;
+}
+.collegesRecommend .collegesRecommendMin ul li .text .englishName{
+	font-size:16px;
+    line-height:16px;
+    margin-top:15px!important;
+    color:#fff;
+}
+.collegesRecommend .collegesRecommendMin ul li .text .chinaName{
+	font-size:12px;
+    line-height:12px;
+    margin-top:10px!important;
+    color:#fff;
+}
+ .collegesRecommend .collegesRecommendMin ul li:hover img{
+ 	transform:scale(1.2);
+ } 
+/* collegesRecommend end */

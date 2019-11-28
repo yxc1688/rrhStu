@@ -1,0 +1,365 @@
+/* banner begin */
+.banner{
+	width:100%;
+	height:450px;
+}
+.banner img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+/* banner end */
+/* teaching begin */
+.teaching{
+	width:100%;
+}
+.teaching .teachingMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.teaching .title{
+	position:relative;
+	position:absolute;
+	right:0;
+	width:690px;
+	margin-top:60px;
+}
+.teaching .teachingMin .img{
+	width:360px;
+    height:360px;
+    padding:60px 0 40px 100px;
+    box-sizing:content-box;
+}
+.teaching .teachingMin .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.teaching .text{
+	position:absolute;
+    right:125px;
+    top:267px;
+	width:560px;
+	color:#666;
+	padding:20px 0 0 20px;
+    font-size:12px;
+    line-height:22px;
+    box-sizing:border-box;
+}
+/* teaching end */
+/* Highlights begin */
+.Highlights{
+	width:100%;
+	height:477px;
+	background:url(../../images/portfolioTraining/UCPinterdisciplinary/kxk_ld_bg.jpg) no-repeat center center;
+}
+.Highlights .HighlightsMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.Highlights .HighlightsMin ul{
+	margin-top:30px;
+}
+.Highlights .HighlightsMin ul li{
+	float:left;
+	width:285px;
+    height:246px;
+    background:#fff;
+    text-align:center;
+    margin:0 10px;
+}
+.Highlights .HighlightsMin ul li:first-child{
+	margin-left:0;
+}
+.Highlights .HighlightsMin ul li:last-child{
+	margin-right:0;
+}
+.Highlights .HighlightsMin ul li .img{
+	width:42px;
+    height:42px;
+    margin:40px auto 0;
+}
+.Highlights .HighlightsMin ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}   
+.Highlights .HighlightsMin ul li h3{
+	color:#333;
+	font-weight:400;
+    font-size:20px;
+    line-height:20px;
+    margin-top:20px!important;
+}
+.Highlights .HighlightsMin ul li .line{
+	width:24px;
+	height:1px;
+    margin:15px auto;
+    background:#333;
+}
+.Highlights .HighlightsMin ul li .page{
+	width:235px;
+    font-size:12px;
+    line-height:18px;
+    margin:0 auto;
+}
+.Highlights .HighlightsMin ul li .page span{
+	color: #ed7829;
+}
+/* Highlights end */
+/* Advantages begin */
+.Advantages{
+	width:100%;
+}
+.Advantages .AdvantagesMin{
+	width:1200px;
+	margin:60px auto 0;
+}
+.Advantages .AdvantagesMin .title{
+	position:relative;
+	width:490px;
+	padding:30px 0 0 30px;
+}
+.Advantages .AdvantagesMin .title h2{
+	width:520px;
+	padding-top:0;
+}
+.Advantages .AdvantagesMin .title .h2Img{
+	margin-top:45px!important;
+	top:0;
+}
+.Advantages .AdvantagesMin .listLeft{
+	float:left;
+	width:520px;
+	height:500px;
+	margin:10px 10px 10px 0;
+}
+.Advantages .AdvantagesMin .listMiddle,
+.Advantages .AdvantagesMin .listRight{
+	float:left;
+	width:320px;
+    margin:10px;
+}
+.Advantages .AdvantagesMin .listRight{
+	margin-right:0;
+}
+.Advantages .AdvantagesMin ul li{
+	position:relative;
+	margin-top:30px;
+}
+.Advantages .AdvantagesMin ul{
+	width:466px;
+	padding:10px 0 0 54px;
+	box-sizing:content-box;
+}
+.Advantages .AdvantagesMin ul li .smallTitle{
+	font-size:16px;
+    line-height:16px;
+    margin-left:20px;
+    color:#ed7829;
+    font-weight:400;
+}
+.Advantages .AdvantagesMin ul li .smallIntro{
+	font-size:12px;
+    line-height:12px;
+    margin-left:20px;
+    color:#333;
+    margin-top:10px;
+}
+.Advantages .AdvantagesMin ul li .beforeLine{
+	position:absolute;
+    left:0;
+    top:7px;
+	width:10px;
+    height:2px;
+    background:#ed7829;
+} 
+.Advantages .AdvantagesMin .listMiddle div,
+.Advantages .AdvantagesMin .listRight div{
+	width:300px;
+}
+.Advantages .AdvantagesMin img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.Advantages .AdvantagesMin .listLeft.borderShadow{
+	box-sizing:border-box;
+}
+.Advantages .AdvantagesMin .borderShadow{
+	box-shadow:0px 0px 10px 1px rgba(237,120,41,0.6);
+    float:left;
+    padding:10px;
+    margin-bottom:20px;
+    box-sizing: content-box;
+}
+/* Advantages end */
+/* creativity begin */
+.creativity{
+	width:100%;
+	height:1467px;
+	background:url(../../images/portfolioTraining/UCPinterdisciplinary/kxk_jsczl_bg.jpg) no-repeat center center;
+}
+.creativity .creativityMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.creativity .creativityMin .bigUl{
+	margin-top:30px;
+}
+.creativity .creativityMin .bigUl>li{
+	float:left;
+	width:600px;
+	height:600px;
+}
+.creativity .creativityMin .bigUl>li:first-child,
+.creativity .creativityMin .bigUl>li:last-child{
+	background:#fff;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(2),
+.creativity .creativityMin .bigUl>li:nth-of-type(3){
+	background:#ed7829;
+}
+.creativity .creativityMin .bigUl>li:first-child img,
+.creativity .creativityMin .bigUl>li:last-child img{
+	display:block;
+	width:447px;
+    height:444px;
+    margin:78px auto 0;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(2){
+	position:relative;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(2) .img{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(2) .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(2) ul li{
+	float:left;
+	width:300px;
+	height:300px;
+	text-align:center;
+	color:#fff;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(2) ul li .num{
+	width:50px;
+    height:50px;
+    margin:50px auto 0;
+    font-size:36px;
+    line-height:50px;
+    background:#fff;
+    border-radius:50%;
+    color:#ed7829;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(2) ul li h4{
+    font-size:16px;
+    line-height:16px;
+    margin-top:15px!important;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(2) ul li p{
+    font-size:12px;
+    line-height:20px;
+    margin-top:17px!important;
+    padding:0 45px;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(3) .allTitle{
+	width:520px;
+    padding:100px 0 30px;
+    border-bottom:3px solid #fff;
+    margin:0 auto;
+    color:#fff;
+} 
+.creativity .creativityMin .bigUl>li:nth-of-type(3) .allTitle .bigTitle{
+	font-size:36px;
+    line-height:36px;
+    font-weight:bold;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(3) .allTitle .smallTitle{
+    font-size:18px;
+    line-height:18px;
+    margin-top:18px!important;
+    font-weight:400;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(3) .dlList{
+	width:520px;
+	margin:0 auto;
+	color:#fff;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(3) .dlList dt{
+    font-size:16px;
+    line-height:16px;
+    margin:30px 0 0 -8px;
+    font-weight:400;
+}
+.creativity .creativityMin .bigUl>li:nth-of-type(3) .dlList dd{
+    font-size:12px;
+    line-height:12px;
+    margin-top:10px!important;
+}
+/* creativity end */
+/* Course begin */
+.Course{
+	width:100%;
+}
+.Course .CourseMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.Course .CourseMin .text{
+	width:1200px;
+    height:185px;
+    margin-top:50px;
+    padding-bottom:60px;
+    border-bottom:1px solid #ed7829;
+    box-sizing:content-box;
+}
+.Course .CourseMin .text .pages{
+	width:575px;
+    padding-left:25px;
+}
+.Course .CourseMin .text .pages p{
+	font-size:12px;
+    line-height:18px;
+    margin-bottom:17px!important;
+}
+.Course .CourseMin .text .absoluteImg{
+	position:absolute;
+	top:60px;
+	right:0;
+	width:560px;
+    height:315px;
+    margin-left:40px;
+}
+.Course .CourseMin .text .absoluteImg img{
+ 	display:block;
+ 	width:100%;
+ 	height:100%;
+ }  
+/* Course end */
+/* Successful begin */
+.Successful{
+	width:100%;
+}
+.Successful .SuccessfulMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+/* Successful end */
+/* camp begin */
+.camp .campContent{
+	background:#333;
+}
+/* camp end */

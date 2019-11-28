@@ -1,0 +1,179 @@
+/* banner begin */
+.banner{
+	width:100%;
+}
+.banner img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+/* banner end */
+/* typeList begin */
+.typeList{
+	width:100%;
+	height:514px;
+	background:#eee;
+}
+.typeList .typeListMin{
+	width:1300px;
+	margin:0 auto;
+}
+.typeList.mentor .multipleColumn{
+	height:auto;
+	background:transparent;
+	margin:0 auto!important;
+}
+.typeList.mentor .multipleColumn .bd{
+	width:1092px;
+	margin:20px;
+}
+.typeList.mentor .controlBtn:first-child {
+    margin-left: 10px;
+}
+.typeList.mentor .controlBtn:last-child {
+    margin-right: 10px;
+}
+.typeList.mentor .multipleColumn ul{
+	width: 260px!important;
+    height: 354px;
+    background: #fff;
+    box-shadow: 0px 0px 10px 1px rgba(51,51,51,0.3);
+    margin:70px 6px 0 6px;
+    border-radius:10px;
+}
+.typeList.mentor .multipleColumn ul li{
+	width: 260px!important;
+    height: 354px;
+}
+.typeList.mentor .multipleColumn ul li .title{
+    font-size: 22px;
+    line-height: 23px;
+    padding-top: 40px;
+    text-align: center;
+    font-weight:500;
+    color:#333;
+}
+.typeList.mentor .multipleColumn ul li img{
+	display:block;
+	margin: 20px auto 0;
+    width: 225px;
+}
+.typeList.mentor .multipleColumn .ulWrap{
+	height:430px!important;
+}
+.mentor .ulWrap .img{
+	margin:0 auto;
+	width:auto;
+	height:auto;
+}
+.typeList.mentor .multipleColumn ul li .page{
+	font-weight: 500;
+    font-size: 12px!important;
+    line-height: 24px;
+    color: #333;
+    text-align: left;
+    padding-top: 10px;
+    margin: 20px auto 0;
+    border-top: 1px solid #333;
+    width:236px!important;
+}
+.typeList.mentor .multipleColumn .controlBtn img{
+	margin-top:220px;
+}   
+/* typeList end */
+/* 监听 begin */
+.scrollType{
+	width:100%:
+}
+.scrollType .scrollTypeMin{
+	width:1200px;
+	margin:0 auto;
+}
+.scrollType .scrollTypeMin .subjectType{
+	padding: 60px 0 15px;
+	box-sizing:content-box;
+	text-align:center;
+	margin:0 auto;
+}
+.scrollType .scrollTypeMin .subjectType ul li{
+	font-size: 20px;
+    line-height: 20px;
+    padding: 0 48px;
+    display:inline-block;
+}
+.scrollType .scrollTypeMin .subjectType ul li a{
+	color:#323431; 
+	transition:.6s;
+}
+.scrollType .scrollTypeMin .subjectType ul li.active a{
+	color:#ee782a;
+}
+.title{
+	text-align:center;
+	font-weight:300;
+} 
+.englishTitle{
+	font-size: 32px;
+    line-height: 32px;
+    padding-top: 60px;
+    color: #323431;
+}
+.title .line{
+	width: 25px;
+    height: 1px;
+    margin: 15px auto;
+    background: #1e8c1e;
+}
+.title .chineseTitle{
+    font-size: 18px;
+    line-height: 18px;
+}
+.scrollType .scrollTypeMin .subjectContent section{
+	border-top: 1px solid #333;
+}
+.scrollType .scrollTypeMin .subjectContent ul{
+	margin-top: 30px;
+}
+.scrollType .scrollTypeMin .subjectContent ul li{
+	float:left;
+	width: 295px;
+    margin: 0 2.5px 20px;
+}
+.scrollType .scrollTypeMin .subjectContent ul li .img{
+	width:295px;
+	height:160px;
+	margin-bottom: 16px;
+}
+.scrollType .scrollTypeMin .subjectContent ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.scrollType .scrollTypeMin .subjectContent ul li .text{
+	font-size: 18px;
+    line-height: 20px;
+    margin-left: 5px;
+    display: inline-block;
+    float: left;
+    font-weight: 500;
+}
+.scrollType .scrollTypeMin .subjectContent ul li .text a{
+	color: #333;
+}
+.scrollType .scrollTypeMin .subjectContent ul li .text span{
+	font-size: 12px;
+    line-height: 12px;
+    margin-top: 7px;
+    margin-left: 5px;
+    color: #666;
+    display: inline-block; 
+}
+/* 监听 end */
+
+
+
+
+
+
+
+

@@ -1,0 +1,510 @@
+/* banner begin */
+.banner{
+	width:100%;
+	height:580px;
+	background:url(../../images/portfolioTraining/vipOne/bannerVip.jpg) no-repeat center center;
+}
+/* banner end */
+/* elite begin */
+.elite{
+	width:100%;
+	height:625px;
+}
+.elite .eliteMin{
+	position:relative;
+	width:1200px;
+	margin:60px auto;
+}
+.elite .eliteMin .bigTitle{
+	position:absolute;
+	right:0;
+	width:565px;
+}
+.elite .eliteMin .bigTitle .writeBig{
+	padding-top:0;
+}
+.elite .eliteMin .bigTitle .h2Img{
+	top:8px;
+}
+.elite .eliteMin .img{
+	float:left;
+	width:605px;
+    height:605px;
+}
+.elite .eliteMin .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.elite .eliteMin .eliteList{
+	position:relative;
+	position:absolute; 
+	top:105px;
+	right: 0;
+	width:845px;
+    height:470px;
+    padding:30px 0 0 60px;
+    box-sizing:content-box;
+    background-color:#fff;
+    box-shadow:0px 0px 10px 3px rgba(153,153,153,0.8);
+}
+.elite .eliteMin .eliteList ul li{
+	margin-top:20px;
+}
+.elite .eliteMin .eliteList ul li .listTitle{
+    font-size:18px;
+    line-height:18px;
+    color:#ed7829;
+    height:28px;
+    padding-left:30px;
+    font-weight:400;
+    background:url(../../images/portfolioTraining/vipOne/vip_wlty_bt_bg.png) no-repeat left center;
+}
+.elite .eliteMin .eliteList ul li .listPage{
+	font-size:12px;
+    line-height:22px;
+    color:#333;
+    margin-top:5px!important;
+    font-weight:400;
+    padding:0 60px 0 30px;
+}
+.elite .eliteMin .eliteList .vipImg{
+	position:absolute;
+	bottom:60px;
+    right:80px;
+}   
+/* elite end */
+/* vipCourse begin */
+.vipCourse{
+	width:100%;
+	height:673px;
+	background:url(../../images/portfolioTraining/vipOne/vip_kc_bg.jpg) no-repeat top left;
+	background-size:cover;
+	margin-top:30px;
+}
+.vipCourse .vipCourseMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.vipCourse .vipCourseMin .vipCourseList{
+	margin-top:30px;
+}
+.vipCourse .vipCourseMin ul li{ 
+	position:relative;
+	float:left;
+	width:280px;
+    height:435px;
+    margin:0 7.5px;
+}
+.vipCourse .vipCourseMin ul li img{
+	display:block;
+	width:100%;
+}
+.vipCourse .vipCourseMin ul li .num{
+	position:absolute;
+	display:block;
+    z-index:1;
+    width:100%; 
+    text-align:center;
+    font-size:20px;
+    line-height:30px;
+    color:#ed7829;
+    font-weight:400;
+}
+.vipCourse .vipCourseMin ul li:nth-of-type(odd) .num{
+	top:0;  
+}
+.vipCourse .vipCourseMin ul li:nth-of-type(even) .num{
+	bottom:0;  
+}
+.vipCourse .vipCourseMin ul li .text{
+	position:absolute;
+	width:240px;
+    height:240px;
+    margin:20px;
+    background-color:#fff;
+}
+.vipCourse .vipCourseMin ul li:nth-of-type(odd) .text{
+	bottom:0;
+}
+.vipCourse .vipCourseMin ul li:nth-of-type(even) .text{
+	top:0;
+}
+.vipCourse .vipCourseMin ul li .text img{
+	max-width:100%;
+}
+.vipCourse .vipCourseMin ul li .text .textTitle{
+	font-size:20px;
+    line-height:20px;
+    margin-top:20px;
+    color:#ed7829;
+    font-weight:400;
+    text-align:center;
+}
+.vipCourse .vipCourseMin ul li .text .aimAtPeople{
+	font-size:12px;
+    line-height:15px;
+    margin-top:8px;
+    color:#313131;
+    text-align:center;
+}
+.vipCourse .vipCourseMin ul li .text .textBtn{
+	width:120px;
+    font-size:12px;
+    line-height:24px;
+    color:#ed7829;
+    text-align:center;
+    margin:30px auto 0;
+    font-weight:400;
+    border:1px solid #ed7829;
+    border-radius:27px;
+    transition:.6s;
+}
+.vipCourse .vipCourseMin ul li .text .textBtn:hover{
+	background:#ed7829;
+	color:#fff;
+}
+/* vipCourse end */
+/* service begin */
+.service{
+	width:100%;
+}
+.service .serviceMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.service .serviceMin ul{
+	margin-top:30px;
+}
+.service .serviceMin ul li{
+	float:left;
+	width:285px;
+    height:280px;
+    margin:10px 7.5px;
+    box-shadow:0px 0px 10px 3px rgba(153,153,153,0.8);
+    text-align:center;
+}
+.service .serviceMin ul li .img{
+	display:block;
+	width:40px;
+    height:40px;
+    margin:40px auto 0;
+}
+.service .serviceMin ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.service .serviceMin ul li .chinaName,
+.service .serviceMin ul li .englishName{
+	font-size:18px;
+    line-height:18px;
+}
+.service .serviceMin ul li .chinaName{
+    margin-top:20px;
+    font-weight:400;
+}
+.service .serviceMin ul li .englishName{
+	margin-top:5px;
+	font-weight:300;
+}
+.service .serviceMin ul li .CutOff{
+	margin:15px auto;
+}
+.service .serviceMin ul li .page{
+	font-size:12px;
+    line-height:20px;
+    width:180px; 
+    margin:0 auto;
+}
+.service .serviceMin ul li .page span{
+	color:#ed7829;
+}
+/* service end */
+/* scheme begin */
+.scheme{
+	width:100%;
+	height:726px;
+	margin-top:60px;
+	background:url(../../images/portfolioTraining/vipOne/vip_dz_bg.jpg) no-repeat center center;
+}
+.scheme .schemeMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.scheme .schemeMin .schemeTab{
+	width:1140px;
+    height:400px;
+    margin:30px auto 60px;
+    padding:30px;
+    box-sizing:content-box;
+    background:#fff;
+}
+.scheme .schemeMin .schemeContentList{
+	height:390px;
+	overflow:hidden;
+}
+.scheme .schemeMin .schemeTabControl{
+	float:left;
+	width:257px;
+    height:390px;
+    padding-top:10px;
+    background:#333;
+    box-sizing:content-box;
+}
+.scheme .schemeMin .schemeTabContent{
+	float:left;
+	width:820px;
+    height:370px;
+    margin-left:24px;
+    padding:17.5px 0 0 17.5px;
+    background:#333;
+    box-sizing:content-box;
+    color:#fff;
+}
+.scheme .schemeMin .schemeTabControl li{
+	cursor:pointer;
+}
+.scheme .schemeMin .schemeTabControl  h2{
+    font-size:14px;
+    line-height:14px;
+    text-align:center;
+    color:#fff;
+    margin-top:20px;
+}
+.scheme .schemeMin .schemeTabControl ul.country,
+.scheme .schemeMin .schemeTabControl ul.garde{
+	width:192px;
+    height:68px;
+    margin:0 auto;
+}
+.scheme .schemeMin .schemeTabControl ul.country li,
+.scheme .schemeMin .schemeTabControl ul.garde li{
+	float:left;
+	width:81px;
+    height:24px;
+    font-size:12px;
+    line-height:24px;
+    margin:15px 7.5px;
+    border-radius:5px;
+    background:#fff;
+    text-align:center;
+}
+.scheme .schemeMin .schemeTabControl .imgLine{
+	width:192px;
+	margin:0 auto;
+	border-bottom:1px solid #666;
+}
+.scheme .schemeMin .schemeTabControl li.active{
+	background:#ed7829!important;
+    color:#fff!important;
+} 
+.scheme .schemeMin .schemeTabControl li.modelBtn:hover{
+	background:#ed7829!important;
+    color:#fff!important;
+    border:none;
+} 
+.scheme .schemeMin .schemeTabControl .img{
+	text-align:center;
+}    
+.scheme .schemeMin .schemeTabControl .typeBtn  li{
+	width:177px;
+    height:29px;
+    font-size:12px;
+    line-height:29px;
+    margin:15px auto;
+    color:#313131;
+    font-weight:400;
+    text-align:center;
+    background-color:#fff;
+    border-radius:5px;
+    transition:.6s;
+}
+.scheme .schemeMin .schemeTabControl .typeBtn .modelBtn{
+	border:1px solid #fff;
+	background:transparent;
+	color:#fff;
+}
+.scheme .schemeMin .schemeTabContent .common{
+	float:left;
+	width:184px;
+	height:56px;
+	text-align:center;
+    margin:7.5px;
+    font-size:12px;
+    line-height:35px;
+    color: #fff;
+    border:1px solid #ed7829;
+    background-color:#ed7829;
+    padding-top:10px;
+}
+.scheme .schemeMin .schemeTabContent .common.double{
+	line-height:18px;
+}
+.scheme .schemeMin .schemeTabContent div.over{
+	border:1px solid #666;
+	color:#666;
+	background:transparent;
+}
+/* scheme end */
+/* application begin */
+.application{
+	width:100%;
+}
+.application .applicationMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.application .applicationMin .applicationPiece{
+	position:relative;
+    width:1200px;
+    height:410px;
+}
+.application .applicationMin .applicationPiece ul{
+	margin-top:30px;
+}
+.application .applicationMin .applicationPiece .bgImg{
+	position:absolute;
+	top:0;
+	left:0;
+	width:1200px;
+    height:370px;
+}
+.application .applicationMin .applicationPiece .bgImg img{
+	display:block;
+	width:100%;
+	height:100%;
+}    
+.application .applicationMin .applicationPiece ul li{
+	position:relative;
+	float:left;
+}
+.application .applicationMin .applicationPiece ul li:nth-of-type(odd){
+	width:208px;
+}
+.application .applicationMin .applicationPiece ul li:nth-of-type(even){
+	width:180px;
+	font-size:16px;
+    line-height:25px;
+    color:#fff;
+    margin:195px 0 0 30px;
+}
+.application .applicationMin .applicationPiece ul li .text{
+	padding-top:39px;
+    padding-left:12px;
+    width:195px;
+    box-sizing:content-box;
+}
+.application .applicationMin .applicationPiece ul li .text .textTitle{
+    width:195px;
+    font-size:16px;
+    color:#333;
+    text-align:center;
+    font-weight:400;
+}
+.application .applicationMin .applicationPiece ul li .text .textPage{
+	width:195px;
+    height:70px;
+    font-size:12px;
+    line-height:20px;
+    margin-top:15px;
+    color:#666;
+    text-align:center;
+    font-weight:400;
+}
+.application .applicationMin .applicationPiece ul li .text.one .textTitle{
+	height:96px;
+    line-height:96px;
+}
+.application .applicationMin .applicationPiece ul li .text.two .textTitle{
+	height:96px;
+    line-height:29px;
+    padding-top:20px;
+}
+.application .applicationMin .applicationPiece ul li:last-child{
+	width:126px;
+}
+/* application end */
+/* system begin */
+.system{
+	width:100%;
+	height:820px;
+	background:#333;
+	margin-top:30px;
+}
+.system .systemMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.system .systemMin .systemList ul{
+	padding-top:20px;
+}
+.system .systemMin .systemList ul li{
+	float:left;
+	width:285px;
+    margin:20px 7.5px 0;
+}
+.system .systemMin .systemList .pick{
+	position:relative;
+}
+.system .systemMin .systemList .pick .letter{
+	position:absolute;
+    z-index:2;
+    width:50px;
+    height:50px;
+    background-color:#ed7829;
+    color:#fff;
+    font-size:24px;
+    line-height:50px;
+    text-align:center;
+    border-radius:50%;
+}
+.system .systemMin .systemList .pick .line{
+	position:absolute;
+    z-index:2;
+    width:1px;
+    height:132px;
+    background-color:#ed7829;
+    top:60px;
+    left:16px;
+}
+.system .systemMin .systemList .pick .img{
+	width:258px;
+    height:192px;
+    padding:20px 0 0 30px;
+}
+.system .systemMin .systemList .pick  .img img{
+	display:block;
+	width:258px;
+	height:172;
+}
+.system .systemMin .systemList .title{
+	font-size:16px;
+    line-height:16px;
+    margin-top:16px;
+    color:#fff;
+    padding-left:30px;
+    font-weight:400;
+}
+.system .systemMin .systemList .page{
+	font-size:10px;
+    line-height:16px;
+    height:48px;
+    color:#fff;
+    margin:14px 0 0;
+    padding-left:30px;
+}
+/* system end */
+.successful{
+	width:100%;
+}
+.successful .successfulMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}

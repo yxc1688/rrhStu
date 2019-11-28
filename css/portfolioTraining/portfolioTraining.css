@@ -1,0 +1,630 @@
+/* 公共 begin */
+.white h2.writeBig{
+    padding:55px 0 0 25px!important;
+}
+.black h2.writeBig{
+    padding:55px 0 0 25px!important;
+}
+/* 公共 end */
+
+
+/* banner begin */
+.banner{
+	width:100%;
+	height:580px;
+	background:url(../../images/portfolioTraining/bannerBg.jpg) no-repeat center center;
+}
+/* banner end */
+/* collection begin */
+.collection{
+	width:100%;
+}
+.collection .collectionMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.collection .collectionMin .writeBig{
+	line-height:48px;;
+}
+.collection .collectionMin .countryList{
+	margin:30px 0 60px 0;
+}
+.collection .collectionMin .countryList ul li{
+	float:left;
+	width:224px;
+    height:246px;
+    box-shadow: 0px 0px 10px 2px rgba(237,120,41,0.6);
+    margin:0 8px;
+}
+.collection .collectionMin .countryList ul li .img{
+	width:204px;
+    height:115px;
+    margin:10px auto 0;
+    border:1px solid #e2e2e2;
+}
+.collection .collectionMin .countryList ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.collection .collectionMin .countryList ul li .text{
+	margin-top:30px;
+}
+.collection .collectionMin .countryList ul li .text .rate{
+	font-size:27px;
+    line-height:36px;
+    color:#ed7829;
+    font-weight:400;
+    text-align:center;
+}
+.collection .collectionMin .countryList ul li .text .line{
+	width:24px;
+	height:1px;
+	margin:10px auto!important;
+	background:#ed7829;
+}
+.collection .collectionMin .countryList ul li .text .page{
+	font-size:12px;
+    line-height:12px;
+    text-align:center;
+    color:#ed7829;
+}
+/* collection end */  
+
+/* course begin */  
+.course{
+	width:100%;
+	background:url(../../images/portfolioTraining/zpjkc_bg.jpg) no-repeat center center;
+}
+.course .courseMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+	padding-bottom:85px;
+}
+.course .courseMin .manyTab .tabTop{
+	margin-top:30px;
+	border-bottom:20px solid #ed7829;
+}
+.course .courseMin .manyTab .tabTop .tabImg img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.course .courseMin .manyTab .tabTop .tabImg{
+	float:left;
+	width:600px;
+	height:450px;
+}
+.course .courseMin .manyTab .tabTop .tabText{
+	float:left;
+	width:599px;
+	height:450px;
+	color:#fff;
+	border-top:1px solid #ed7829;
+	border-right:1px solid #ed7829;
+}
+.course .courseMin .manyTab .tabTop .tabText>ul li{
+	float:left;
+	width:50%;
+	height:59px;
+	text-align:center;
+	background:#ed7829;
+	transition:.4s;
+}
+.course .courseMin .manyTab .tabTop .tabText>ul li a{
+	font-size:18px;
+    line-height:59px;
+    color:#fff;
+}
+.course .courseMin .manyTab .tabTop .tabText>ul li.active{
+	background:transparent;
+}
+.course .courseMin .manyTab .tabTop .tabText>ul li.active a{
+	
+	border-bottom:2px solid #ed7829;
+    color:#ed7829;
+}
+.course .courseMin .manyTab .tabTop .tabText .tabTextContent{
+	width:480px;
+	padding:16px 0 0 60px;
+}
+.course .courseMin .manyTab .tabTop .tabText .tabTextContent dt{
+	margin-top:24px;
+	font-size:14px;
+	line-height:14px;
+	font-weight:400;
+}
+.course .courseMin .manyTab .tabTop .tabText .tabTextContent dd{
+	margin-top:10px;
+	font-size:10px;
+	line-height:15px;
+	font-weight:300;
+}
+.course .courseMin .manyTab .tabTop .tabText .buttonTeam{
+    margin:30px 0 0 60px;
+    box-sizing:content-box!important;
+}
+.course .courseMin .manyTab .tabTop .tabText .buttonTeam button{
+	display:inline-block;
+	width:58px;
+	height:28px;
+	padding:0 25px;
+    margin-right:40px;
+    box-sizing:content-box;
+    background:transparent;
+    border:1px solid #ed7829;
+    border-radius:5px;
+    transition:.6s;
+} 
+.course .courseMin .manyTab .tabTop .tabText .buttonTeam button a{
+	font-size:14px;
+    line-height:28px;
+    color:#ed7829;
+} 
+.course .courseMin .manyTab .tabTop .tabText .buttonTeam button:hover{
+	background:#ed7829;
+}
+.course .courseMin .manyTab .tabTop .tabText .buttonTeam button:hover a{
+	color:#fff;
+}
+.course .courseMin .manyTab .tabBottom .aboutStudio{
+	margin-top:20px;
+}
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioContent{
+	float:left;
+	width:538px;
+	height:145px;
+	background:#fff;
+	padding:26px 26px 0;
+	box-sizing:content-box!important;
+}
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioRight{
+	margin-left:20px;
+}
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioContent h5{
+	font-size:14px;
+	line-height:14px;
+	color:#ed7829;
+}
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioContent .line{
+	width:14px;
+	height:1px;
+	background-color:#ed7829;
+	margin:13px 0 13px!important;
+	font-weight:400;
+}
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioContent .textAbout{
+	font-size:10px;
+    line-height:15px;
+}   
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioContent .dashed{
+	border-top:1px dashed #ababab;
+    margin:10px 0!important;
+}
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioContent ul li{
+	float:left;
+	margin:0 30px 13px 0;
+}   
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioContent ul li img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioContent ul li .img{
+	display:inline-block;
+	width:5px;
+    height:5px;
+    margin-top:2px;
+}
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioContent ul li .blackFont{
+	display:inline-block;
+    font-size:10px;
+    line-height:10px!important;
+}
+.course .courseMin .manyTab .tabBottom .aboutStudio .aboutStudioContent ul li .SmallOrange{
+    font-size:10px;
+    line-height:10px;
+    margin:0 0 0 13px!important;
+    color:#ed7829;
+}
+.manyTabBlock{
+	display:block!important;
+}  
+.manyTabNone{
+	display:none!important;
+}    
+/* course end */ 
+/* oneCare begin */ 
+.oneCare{
+	width:100%;
+}
+.oneCare .oneCareMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.oneCare .oneCareMin .oneCareFrame{
+	width:1200px;
+    height:615px;
+    margin-bottom:60px;
+	background:url(../../images/portfolioTraining/jyshfw_bg.jpg) no-repeat center center;
+	background-size:cover;
+}
+.oneCare .oneCareMin .oneCareFrame .frameLeft,
+.oneCare .oneCareMin .oneCareFrame .frameRight{
+	float:left;
+	width:600px;
+	box-sizing:border-box;
+}
+.oneCare .oneCareMin .oneCareFrame .frameLeft{
+	color:#fff;
+	padding:122px 0 0 80px;
+}
+.oneCare .oneCareMin .oneCareFrame .frameLeft h2{
+	font-size:24px;
+	line-height:40px;
+}
+.oneCare .oneCareMin .oneCareFrame .frameLeft dt{
+	font-size:14px;
+    line-height:14px;
+    margin:22px 0 10px 0;
+}
+.oneCare .oneCareMin .oneCareFrame .frameLeft dd{
+	margin-top:10px;
+	font-size:12px;
+	line-height:12px;
+}   
+.oneCare .oneCareMin .oneCareFrame .frameLeft dd:before{
+	content:"";
+	display:inline-block;
+	width:6px;
+	height:6px;
+	margin-right:10px;
+	background:url(../../images/portfolioTraining/jyshfw_bd.png) no-repeat center center;
+}
+.oneCare .oneCareMin .oneCareFrame .frameRight{
+	padding:20px 0 0 50px;
+}
+.oneCare .oneCareMin .oneCareFrame .frameRight ul{
+	float:left;
+	box-sizing:content-box;
+}
+.oneCare .oneCareMin .oneCareFrame .frameRight .frameRightFirst li.color{
+	 color:#ed7829;
+}
+.oneCare .oneCareMin .oneCareFrame .frameRight .frameRightFirst li{
+	font-size:14px;
+    line-height:14px;
+    margin-top:70px;
+}
+.oneCare .oneCareMin .oneCareFrame .frameRight .frameRightSecond{
+	padding-left:45px;
+	width:110px;
+	text-align:center;
+	
+}
+.oneCare .oneCareMin .oneCareFrame .frameRight .frameRightSecond li{
+	font-size:12px;
+    line-height:13px;
+    margin-top:72px;
+}
+.oneCare .oneCareMin .oneCareFrame .frameRight .frameRightThird{
+	width:300px;
+	margin-top:60px;
+}
+.oneCare .oneCareMin .oneCareFrame .frameRight .frameRightThird li{
+	margin-bottom:110px;
+	text-align:right;
+}
+.oneCare .oneCareMin .oneCareFrame .frameRight li .bgBlack{
+	float:right;
+	width:128px;
+	height:25px;
+	text-align:center;
+    font-size:12px;
+    line-height:25px;
+    background:#515252;
+    color:#fff;
+}
+.oneCare .oneCareMin .oneCareFrame .frameRight li p{
+	clear:both;
+	font-size:12px;
+    line-height:12px;
+    padding-top:6px!important;
+}
+/* oneCare end */ 
+/* advantage begin */
+.advantage{
+	width:100%;
+	background:#313131;
+	padding-bottom:60px;
+}
+.advantage .advantageMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.advantage .advantageMin .advantageList{
+	margin-top:30px;
+}
+.advantage .advantageMin .advantageList li{
+	float:left;
+	width:224px;
+	height:460px;
+	margin-right:20px; 
+	color:#fff;
+}
+.advantage .advantageMin .advantageList li:last-child{
+	margin-right:0;
+}
+.advantage .advantageMin .advantageList li img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.advantage .advantageMin .advantageList li .img{
+	width:224px;
+    height:302px;
+}
+.advantage .advantageMin .advantageList li .line{
+	width:30px;
+    height:3px;
+    margin:20px 0!important;
+    background-color:#ed7829;
+}
+.advantage .advantageMin .advantageList li h2{
+	font-size:16px;
+    line-height:16px; 
+    font-weight:400;
+}
+.advantage .advantageMin .advantageList li .page{
+	width:220px;
+    font-size:10px;
+    line-height:20px;
+    margin-top:15px;
+}
+/* advantage end */
+/* system begin */
+.system{
+	width:100%;
+	margin-bottom:60px;
+}
+.system .systemMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.system .systemMin .systemContent{
+	margin-top:30px;
+} 
+.system .systemMin .systemContent img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.system .systemMin .systemContent li{
+	position:relative;
+	float:left;
+	width:300px;
+	height:536px;
+}
+.system .systemMin .systemContent .img{
+	width:300px;
+	height:358px;
+}
+.system .systemMin .systemContent .img:nth-of-type(even){
+	margin-top:192px;
+	width:300px;
+	height:358px;
+}
+.system .systemMin .systemContent li:nth-of-type(odd) .text{
+	position:absolute;
+	bottom:-14px;
+	width:300px;
+	height:212px;
+	background:url(../../images/portfolioTraining/kctx_1_1.png) no-repeat center center;
+	background-size:cover;
+}
+.system .systemMin .systemContent li:nth-of-type(even) .text{
+	position:absolute;
+	top:0;
+	width:300px;
+	height:212px;
+	background:url(../../images/portfolioTraining/kctx_2_1.png) no-repeat center center;
+	background-size:cover;
+}
+.system .systemMin .systemContent li:nth-of-type(odd) .text .englishTitle{
+	margin-top:50px!important;
+}
+.system .systemMin .systemContent li:nth-of-type(even) .text .englishTitle{
+	margin-top:30px!important;
+}
+.system .systemMin .systemContent li .text .englishTitle{
+	font-size:20px;
+    line-height:20px;
+    text-align:center;
+}
+.system .systemMin .systemContent li .text .chineseTitle{
+	font-size:20px;
+    line-height:20px;
+    margin-top:18px!important;
+    text-align:center;
+}
+.system .systemMin .systemContent li .text .page{
+	padding:0 35px;
+	font-size:12px;
+    line-height:20px;
+    margin-top:18px!important;
+    text-align:center;
+}
+.system .systemMin .systemContent li:nth-of-type(odd):hover .text{
+	background:url(../../images/portfolioTraining/kctx_1_2.png) no-repeat center center;
+	background-size:cover;
+}
+.system .systemMin .systemContent li:nth-of-type(even):hover .text{
+	background:url(../../images/portfolioTraining/kctx_2_2.png) no-repeat center center;
+	background-size:cover;
+}
+.system .systemMin .systemContent li:hover .text{
+	color:#fff;
+}
+/* system end */
+/* process begin */
+.process{
+	width:100%;
+	background:#313131;
+}
+.process .processMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.process .processMin .flow ul{
+	width:1050px;
+	margin:0 auto;
+}
+.process .processMin .flow ul li{
+	position:relative;
+	float:left;
+	width:130px;
+	height:130px;
+}
+.process .processMin .flow ul li.interval{
+	width:92px;
+	height:10px;
+	margin:97.5px 4px;
+}
+.process .processMin .flow ul li.interval img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.process .processMin .flow ul li:not(.interval){
+	margin:37.5px 0;
+}
+.process .processMin .flow ul li .floatPiece{
+	position:absolute;
+	margin:-15px 0 0 15px;
+	width:32px;
+    height:32px;
+    line-height:32px;
+    text-align:center;
+}
+.process .processMin .flow ul li.odd{
+	background:#ed7829;
+}
+.process .processMin .flow ul li.odd .text{
+	color:#fff;
+}
+.process .processMin .flow ul li.odd .floatPiece{
+	background:#fff;
+	color:#ed7829;
+}
+.process .processMin .flow ul li.even{
+	background:#fff;
+}
+.process .processMin .flow ul li.even .floatPiece{
+	background:#ed7829;
+	color:#fff;
+}
+.process .processMin .flow ul li.even .text{
+	color:#ed7829;
+}
+.process .processMin .flow ul li .img{
+	width:59px:
+	height:59px;
+	margin:30px auto 0;
+	text-align:center;
+}
+.process .processMin .flow ul li .text{
+	font-size:12px;
+    line-height:12px;
+    text-align:center;
+}
+.process .processMin .flow ul li.odd.hover{
+	background:#fff;
+}   
+.process .processMin .flow ul li.odd.hover .text{
+	color:#ed7829;
+}
+.process .processMin .flow ul li.odd.hover .floatPiece{
+	background:#ed7829;
+	color:#fff;
+}
+.process .processMin .flow ul li.even.hover{
+	background:#ed7829;
+}   
+.process .processMin .flow ul li.even.hover .text{
+	color:#fff;
+}
+.process .processMin .flow ul li.even.hover .floatPiece{
+	background:#fff;
+	color:#ed7829;
+}
+/* process end */
+/* portfolio begin */
+.portfolio{
+	width:100%;
+}
+.portfolio .portfolioMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.portfolio .portfolioContent{
+	height:707px;;
+}
+.portfolio ul li{
+	float:left;
+	width:258px;
+	margin-right:55px;
+}
+.portfolio img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.portfolio .portfolioContent{
+	margin:34px auto 0;
+    height:707px;
+}
+.portfolio .swiper-slide ul{
+	height:310px;
+	margin-bottom:10px!important;
+}
+.portfolio ul li{
+	height:310px;
+}
+.portfolio ul li:last-child{
+	margin-right:0;
+}
+.portfolio ul li>a>.img{
+	position:relative;
+	width:240px;
+	height:240px;
+	border:3px solid #EE782A;
+}
+.portfolio ul li .pick{
+	position:absolute;
+	width:240px;
+    height:240px;
+    margin:23px 0 0 23px;
+}
+.sameMask ul.maskUl li .text{
+	width:240px;
+	margin:20px 26px;
+}
+.portfolio ul li:hover .img{
+	background:#EE782A;
+}
+.portfolio ul li:hover a:last-child{
+	background:#EE782A!important;
+}
+/* portfolio end */
+/* footer begin */
+.footer{
+	margin-top:15px;
+}
+/* footer end */

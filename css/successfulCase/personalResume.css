@@ -1,0 +1,146 @@
+/* banner begin */
+.banner{
+	width:100%;
+	height:450px;
+	background:url(../../images/successfulCase/personResume/case_toubg.jpg) no-repeat center center;
+}
+.banner .peopleImg{
+	padding-top: 45px;
+}
+.banner .peopleImg img{
+	display:block;
+	margin:0 auto;
+	width:200px;
+	border-radius: 50%;
+    padding: 8px;
+    border: 2px solid #fff;
+    box-sizing:content-box;
+}
+.banner .intro{
+	padding-top: 18px;
+    width: 100%;
+    text-align:center;
+}
+.banner .intro .name,
+.banner .intro .school{
+	font-size: 24px;
+    line-height: 24px;
+    font-weight:bold;
+}
+.banner .intro .college{
+	font-size: 16px;
+    padding-top: 15px;
+    font-weight:bold;
+}
+.banner .newList{
+	width:1200px;
+	margin:0 auto;
+}
+.banner .newList ul{
+	padding: 40px 0;
+    width: 1200px;
+    margin: 40px auto 0;
+    display: inline-block;
+    text-align: center;
+    background: #fff;
+    box-shadow: 0 0 15px #888;
+}
+.banner .newList ul li{
+	width:200px;
+	margin:0 auto;
+	float:left;
+	text-align:center;
+}  
+.banner .newList ul li p{
+	font-size: 30px;
+    line-height: 30px;
+    color: #333;
+    font-weight: 400;
+    text-align: center;
+} 
+.banner .newList ul li p span{
+	vertical-align: 10px;
+}
+.banner .newList ul li .line{
+	width: 24px;
+    height: 1px;
+    margin: 16px auto;
+    background:#333;
+} 
+.banner .newList ul li span{
+	font-size: 14px;
+}   
+/* banner end */
+/* displayProtfolio begin */
+.displayProtfolio{
+	width:100%;
+	margin-top:120px;
+}
+.sameTitle .line{
+	background:#00CC00!important;
+}
+.displayProtfolio .turnSlide{
+	width: 1200px;
+    height: 680px;
+    margin:0 auto 60px;
+	background:url(../../images/successfulCase/personResume/pic137.png) center center;
+	background-size:cover;
+}
+.displayProtfolio .turnSlide .turnSlideMin{
+	width: 837px;
+    height: 556px;
+    margin:0 auto;
+}
+/* displayProtfolio end */
+/* offer begin */
+.offer{
+	width:100%;
+	height:950px;
+	background:#434343;
+}
+.offer .offerMin{
+	width:1200px;
+	margin:0 auto;
+}
+.offer .offerMin .bigTitle,
+.offer .offerMin .smallTitle{
+	color:#fff;
+}
+.offer .lb_gl{
+	margin-top:40px;
+}
+.offer .poster-item{
+    width: 500px;
+    box-shadow: 0 0 15px #888;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.offer .poster-item img{
+	display:block;
+	width:100%;
+}
+.sameMask ul.maskUl li .text{
+	margin:0;
+}
+/* offer end */
+/* success begin */
+.success{
+	width:100%;
+	height:560px;
+}
+.success .successMin{
+	width:1200px;
+	margin:0 auto;
+}
+.success .successMin ul li>a>.img{
+	width: 224px;
+    height: 265px;
+	overflow:hidden;
+}    
+.success .successMin ul li>a>.img img{
+	transition:.6s;
+}
+.success .successMin ul>li:hover>a>.img img{
+	transform:scale(1.2);
+}
+/* success end */

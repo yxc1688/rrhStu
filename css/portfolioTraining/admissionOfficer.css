@@ -1,0 +1,686 @@
+/* banner begin */
+.banner{
+	width:100%;
+	height:475px;
+}
+.banner img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+/* banner end */
+/* create begin */
+.create{
+	width:100%;
+	height:450px;
+	background:url(../../images/portfolioTraining/admissionOfficer/zsg_sc_bg.jpg) no-repeat center center;
+}
+.create .createMin{
+	width:1200px;
+	margin:0 auto;
+}
+.create .createMin .createLeft{
+	position:relative;
+	float:left;
+    width:600px;
+    height:425px;
+    padding-top:25px;
+}
+.create .createMin .createRight{
+	float:left;
+	width:600px;
+	padding-left:30px;
+}
+.create .createMin .imgBg{
+	width:485px;
+}
+.create .createMin .imgBg img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.create .createMin .floatPiece{
+	position:absolute;
+	top:0;
+}
+.create .createMin .floatPiece .time{
+	font-size:22px;
+    line-height:22px;
+    margin:50px 0 0 10px;
+    color:#333;
+    font-weight:400;
+}
+.create .createMin .floatPiece .teachers{
+	font-size:10px;
+    line-height:10px;
+    margin:26px 0 0 10px;
+    font-weight:bold;
+}
+.create .createMin .list{
+	position:absolute;
+	top:0;
+	width:440px;
+    height:300px;
+    padding:97px 0 0 93px;
+    box-sizing:content-box;
+}
+.create .createMin .list .swiper-container{
+	width:440px;
+    height:300px;
+}
+.create .createMin .list .control{
+	position:absolute;
+	right:0;
+	z-index:999;
+	margin-top:-34px;
+    width:76px;
+    height:34px;
+    cursor:pointer;
+}
+.create .createMin .list .control img{
+	width:38px;
+    height:34px;
+}
+.create .createMin .list .control .control-left,
+.create .createMin .list .control .control-right{
+	float:left;
+}    
+.create .createMin .createRight .rightTitle{
+	margin-top:75px;
+    font-size:36px;
+    line-height:36px;
+    color:#1f873a;
+    padding-bottom:30px;
+    border-bottom:4px solid #1f873a;
+}
+.create .createMin .createRight .listType{
+	padding-top:24px;
+}
+.create .createMin .createRight .listType div{
+	position:relative;
+}
+.create .createMin .createRight .listType .page{
+	padding:0 0 15px 40px;
+    width:530px;
+    font-size:14px;
+    line-height:19px;
+    color:#434343;
+    font-weight:400;
+}
+.create .createMin .createRight .listType .img{
+	position:absolute;
+	top:2px;
+	width:26px;
+}
+.create .createMin .createRight .listType .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.create .createMin .createRight .rightBtn{
+	width:118px;
+    height:34px;
+    font-size:18px;
+    line-height:34px;
+    margin-top:15px;
+    color:#1f873a;
+    text-align:center;
+    border:1px solid #1f873a;
+    cursor:pointer;
+}
+/* create end */
+/* admissions begin */
+.admissions{
+	width:100%;
+	height:657px;
+}
+.admissions .admissionsmMin{
+	width:1200px;
+	margin:0 auto;
+}
+.officerFont .title{
+    text-align:center;
+}
+.officerFont .title .englishName{
+	padding-top:60px;
+    font-size:32px;
+    line-height:32px;
+    color:#323431;
+}
+.officerFont .title .line{
+	width:24px;
+    height:1px;
+    margin:16px auto;
+    background:#1e8c1e;
+}
+.officerFont .title .chineseName{
+	font-size:18px;
+    line-height:18px;
+}
+.admissions .admissionsList{
+	width:100%;
+	height:375px;
+	margin-top:30px;
+	background:#666;
+}
+.admissions .admissionsList ul{
+	width:1200px;
+	margin:0 auto;
+}
+.admissions .admissionsList ul li{
+	position:relative;
+	float:left;
+	width:300px;
+	cursor:pointer;
+}
+.admissions .admissionsList ul li .img{
+	width:300px;
+	height:375px;
+}
+.admissions .admissionsList ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.admissions .admissionsList ul li .openBtn{
+	position:relative;
+	position:absolute;
+	top:0;
+	width:100%;
+	height:375px;
+	background:rgba(0,0,0,0.6);
+	transition:.6s;
+}
+.admissions .admissionsList ul li .openBtn img{
+	position:absolute;
+	bottom:5px;
+    right:5px;
+	display:block;
+	width:66px;
+}
+.admissions .admissionsList ul li .text .teacherEnglishName{
+	font-size:20px;
+    line-height:20px;
+    margin-top:15px;
+    font-weight:300;
+}
+.admissions .admissionsList ul li .text .line{
+	width:150px;
+	height:2px;
+	margin-top:8px;
+	background:#333;
+}
+.admissions .admissionsList ul li .text .teacherChineseName{
+	font-size:16px;
+    line-height:16px;
+    margin-top:8px;
+}
+.admissions .admissionsList ul li:hover .openBtn{
+	background:rgba(0,0,0,0)
+}
+/* admissions end */
+/* advisory begin */
+.advisory{
+	width:100%;
+	background:url(../../images/portfolioTraining/admissionOfficer/zsg_lm_bg.jpg) no-repeat center center;
+}
+.advisory .advisoryMin{
+	width:1200px;
+	margin:0 auto;
+}
+.advisory .advisoryMin .advisoryTabType{
+	width:360px;
+    margin:0 auto;
+}
+.advisory .advisoryMin .advisoryTabType li{
+	width:178px;
+    height:44px;
+    font-size:20px;
+    line-height:44px;
+    text-align:center;
+    border:1px solid #1f873a;
+    float:left;
+    color:#1f873a;
+    margin:30px auto 0;
+}
+.advisory .advisoryMin .advisoryTabType li:first-child{
+	-webkit-border-top-left-radius: 15px;
+    -webkit-border-bottom-left-radius: 15px;
+}
+.advisory .advisoryMin .advisoryTabType li:last-child{
+	-webkit-border-top-right-radius: 15px;
+    -webkit-border-bottom-right-radius: 15px;
+}
+.advisory .advisoryMin .advisoryTabType li.active{
+	background:#1f873a;
+    color:#fff;
+}
+.advisory .advisoryMin .advisoryTabContent{
+	margin-top:30px;
+}
+.advisory .advisoryMin .advisoryTabContent .advisoryTabContentPage:last-child{
+	display:none;
+}
+/* advisory end */
+/* experiences begin */
+.experiences{
+	width:100%;
+	height:445px;
+	background:url(../../images/portfolioTraining/admissionOfficer/zsg_cyx_bg.jpg) no-repeat center center;
+}
+.experiences .experiencesMin{
+	width:1200px;
+	margin:0 auto;
+}
+.experiences .title .englishName,
+.experiences .title .chineseName{
+	color:#fff;
+}
+.experiences ul{
+	margin-top:30px;
+}
+.experiences ul li{
+	position:relative;
+	float:left;
+	width:200px;
+	height:230px;
+}
+.experiences ul li .bgSchool{
+	width:200px;
+	height:230px;
+}
+.experiences ul li .bgSchool img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.experiences ul li .img{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background:rgba(0,0,0,.6);
+	transition:.6s;
+}
+.experiences ul li .img img{
+	display:block;
+	width:100px;
+	height:100px;
+	box-sizing:content-box;
+	margin:50px auto 0;
+	border-radius:100px;
+}
+.experiences ul li .schoolName{
+	position:absolute;
+	top:160px;
+	width:200px;
+	line-height:18px;
+	font-size:18px;
+	color:#fff;
+	text-align:center;
+}
+.experiences ul li:hover .img{
+	background:rgba(0,0,0,0);
+}
+/* experiences end */
+/* form begin */
+.listenClass{
+	background:url(../../images/portfolioTraining/admissionOfficer/ldxzt_tjbd.jpg) no-repeat center center;
+}
+/* form end */
+/* service begin */
+.service{
+	width:100%;
+	height:680px;
+}
+.service .serviceMin{
+	width:1200px;
+	margin:0 auto;
+}
+.service .serviceMin .serviceListLeft{
+	float:left;
+    width:540px;
+    margin:110px 60px 0 0;
+}
+.service .serviceMin .serviceListRight{
+	float:left;
+	width:600px;
+}
+.service .serviceMin .serviceListLeft img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.service .serviceMin .serviceListRight .bigTitle{
+	font-size:50px;
+    line-height:65px;
+    margin-top:50px;
+    color:#1f873a;
+}
+.service .serviceMin .serviceListRight .smallTitle{
+	font-size:20px;
+    line-height:20px;
+    margin-top:10px;
+    padding-bottom:25px;
+    border-bottom:3px solid #1f873a;
+    width:100%;
+}
+.service .serviceMin .serviceListRight .pagesList .pageTitle{
+	width:132px;
+	font-size:18px;
+    line-height:36px;
+    padding:0 30px;
+    height:36px;
+    margin-top:30px;
+    text-align:center;
+    background:#626262;
+    color:#fff;
+    -webkit-border-top-left-radius: 13px;
+    -webkit-border-bottom-right-radius: 13px;
+}
+.service .serviceMin .serviceListRight .pagesList .pages{
+    font-size:16px;
+    line-height:26px;
+    margin-top:20px;
+}
+/* service end */
+/* education begin */
+.education{
+	width:100%;
+	height:563px;
+	background:#333;
+}
+.education .educationMin{
+	width:1200px;
+	margin:0 auto;
+}
+.education .educationMin .title .englishName,
+.education .educationMin .title .chineseName{
+	color:#fff;
+}
+.education .educationMin .educationList{
+	padding-top:30px;
+}
+.education .educationMin .educationList .educationListBigPic{
+	float:left;
+	width:600px;
+    margin-right:20px;
+}
+.education .educationMin .educationList .educationListSmallPic{
+	float:left;
+	width:580px;
+}
+.education .educationMin .educationList .educationListBigPic .img{
+	width:600px;
+}
+.education .educationMin .educationList .educationListBigPic .img img{
+	display:block;
+	width:100%;
+	height:100%:
+}
+.education .educationMin .educationList .educationListSmallPic ul li{
+	float:left;
+	width:180px;
+    margin-right:10px;
+}
+.education .educationMin .educationList .educationListSmallPic ul li:nth-of-type(3n){
+	margin-right:0;
+}
+.education .educationMin .educationList .educationListSmallPic ul li .img{
+	width:180px;
+	height:120px;
+}
+.education .educationMin .educationList .educationListSmallPic ul li img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.education .educationMin .educationList .educationListSmallPic ul li .text{
+	color:#fff;
+}
+.education .educationMin .educationList .educationListSmallPic ul li .typeEngliashName{
+	font-size:12px;
+    line-height:12px;
+    margin-top:10px!important;
+}
+.education .educationMin .educationList .educationListSmallPic ul li .typeChineseName{
+	font-size:12px;
+    line-height:12px; 
+    margin-top:5px!important;
+    padding-bottom:20px;
+}
+   
+/* education end */
+/* courses begin */
+.courses{
+	width:100%;
+}
+.courses .coursesMin{
+	width:1200px;
+	margin:0 auto;
+}
+.courses .coursesMin .small{
+	font-size:18px;
+    line-height:18px;
+    margin-bottom:20px;
+    font-weight:300;
+}
+.courses .coursesMin ul{
+	margin-top:20px;
+}
+.courses .coursesMin ul li{
+	float:left;
+	width:285px;
+	height:557px;
+	margin-right:20px;
+}
+.courses .coursesMin ul li:last-child{
+	margin-right:0;
+}
+.courses .coursesMin ul li .img{
+	padding:10px 0;
+	box-sizing:content-box;
+}
+.courses .coursesMin ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.courses .coursesMin ul li .text{	
+	position:relative;
+	width:285px;
+    height:175px;
+    margin:10px 0;
+    box-sizing:content-box;
+    background:rgba(238,238,238,1);
+    z-index:1;
+}
+.courses .coursesMin ul li .bgImg img{
+	display:block;
+	width:285px;
+    height:175px;
+}
+.courses .coursesMin ul li .text .textTitle{
+	position:relative;
+	font-size:24px;
+    line-height:24px;
+    padding-top:20px;
+    text-align:center;
+    z-index:999;
+}
+.courses .coursesMin ul li .text .page{
+	position:relative;
+	font-size:12px;
+    line-height:22px;
+    width:205px;
+    margin:15px auto 0;
+}
+.courses .coursesMin ul li .bgImg{
+	position:absolute;
+	top:0;
+	bottom:0;
+	display:none;
+}
+.courses .coursesMin ul li .mask{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background:rgba(0,0,0,0);
+}
+.courses .coursesMin ul li:hover .text .bgImg{
+	display:block;
+}
+.courses .coursesMin ul li:hover .textTitle{
+	color:#fff;
+}
+.courses .coursesMin ul li:hover .page{
+	color:#fff;
+}
+.courses .coursesMin ul li:hover .mask{
+	background:rgba(0,0,0,0.4);
+}
+/* courses end */
+/* program begin */
+.program{
+	width:100%;
+	height:380px;
+}
+.program .programMin{
+	width:1200px;
+	margin:0 auto;
+}
+.program .programMin .programList{
+	margin-top:30px;
+}
+.program .programMin .programList ul li{
+	float:left;
+	width:206px;
+    margin:0 47px;
+    text-align:center;
+}
+.program .programMin .programList ul li .img{
+	width:66px;
+    margin:0 auto;
+}
+.program .programMin .programList ul li .programTitle{
+	font-size:20px;
+    line-height:20px;
+    margin-top:15px;
+}
+.program .programMin .programList ul li .page{
+	font-size:12px;
+    line-height:22px;
+    margin-top:15px;
+}
+.program .programMin .programList ul li .img img:last-child{
+	display:none;
+}
+.program .programMin .programList ul li:hover .img img:last-child{
+	display:block;
+}
+.program .programMin .programList ul li:hover .img img:first-child{
+	display:none;
+}
+/* program end */
+/* sextuple begin */
+.sextuple{
+	width:100%;
+	height:513px;
+}
+.sextuple .sextupleLeft{
+	float:left;
+	width:50%;
+	height:513px;
+	background:#ebebeb;
+}
+.sextuple .sextupleRight{
+	float:left;
+	width:50%;
+	height:513px;
+	background:#333;
+}
+.sextuple .sextupleLeft .img{
+	width:485px;
+    float:right;
+    margin:50px 115px 0 0;
+   
+}
+.sextuple .sextupleLeft .img img{
+	display:block;
+	width:100%;
+	height:100%;
+	text-align:right;
+}
+.sextuple .sextupleRight .rightTitle{
+	margin:60px 0 0 50px;
+}
+.sextuple .sextupleRight .rightTitle .bigTitle{
+	font-size:40px;
+    line-height:40px;
+    color:#ed7523;
+}
+.sextuple .sextupleRight .rightTitle .middleTitle{
+	font-size:26px;
+    line-height:26px;
+    margin-bottom:0;
+    padding-bottom:20px;
+    border-bottom:3px solid #ed7523;
+    box-sizing:content-box;
+    color:#ed7523;
+    margin-top:20px;
+    display:inline-block;
+}
+.sextuple .sextupleRight dl{
+	margin-left:50px;
+}
+.sextuple .sextupleRight dl dt{
+	font-size: 16px;
+    line-height: 16px;
+    margin-left: -8px;
+    color:#fff;
+    font-weight:400;
+    margin-top:20px;
+}
+.sextuple .sextupleRight dl dd{
+	font-size: 12px;
+    line-height: 12px;
+    margin-top:10px;
+    color:#999;
+}
+/* sextuple end */
+/* PORTFOLIO CASES begin */
+.caseBg{
+	width:100%;
+	height:166px;
+}
+.caseBg img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.oneSystemSuccess .oneSystemSuccessMin{
+	position:relative;
+	width:1200px;
+	margin:-50px auto 0!important;
+	background:#fff;
+}
+.oneSystemSuccessMin .oneSystemSuccessList{
+	margin-top:30px;
+}
+.oneSystemSuccessMin .education{
+	background:none;
+}
+.successfulCase.sameMask .oneSystemSuccessList .mask .education{
+	border-left: 3px solid #EE782A!important;
+	color: #EE782A!important;
+}
+.successfulCase.sameMask .oneSystemSuccessList .mask .link{
+	color: #EE782A!important;
+}
+.oneSystemSuccess.successfulCase.sameMask ul.maskUl li .text a:last-child{
+	width:195px!important;
+}
+/* PORTFOLIO CASES end */

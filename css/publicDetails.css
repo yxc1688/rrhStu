@@ -1,0 +1,612 @@
+/* 按钮 begin */
+.effectBtn {
+	color: #EE782A;
+	border-color: #EE782A;
+	width: 100px;
+	font-size: 14px;
+	height: 24px;
+	border-radius: 24px;
+	line-height: 24px;
+	float: left;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	-moz-border-radius-topleft: 4px;
+	-moz-border-radius-bottomleft: 4px;
+	-moz-border-radius-topright: 4px;
+	-moz-border-radius-bottomright: 4px;
+	-webkit-border-top-left-radius: 4px;
+	-webkit-border-bottom-left-radius: 4px;
+	-webkit-border-top-right-radius: 4px;
+	-webkit-border-bottom-right-radius: 4px;
+	display: block;
+	cursor: pointer;
+	position: relative;
+	-webkit-transition-duration: 1.5s, 1s, 0s;
+	transition-duration: 1.5s, 1s, 1s, 0s;
+	-webkit-transition-property: opacity, -webkit-transform, background;
+	transition-property: opacity, -webkit-transform;
+	transition-property: transform, opacity;
+	transition-property: transform, opacity, -webkit-transform, background;
+	-webkit-transition-delay: .6s, 0s;
+	transition-delay: .6s, 0s;
+	-webkit-transition-timing-function: cubic-bezier(.42, 0, .03, .985);
+	transition-timing-function: cubic-bezier(.42, 0, .03, .985);
+	-webkit-transform: translate3d(0, 0, 0);
+	-moz-transform: translate3d(0, 0, 0);
+	-ms-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	border-radius: 30px;
+	text-align: center;
+	letter-spacing: 3px;
+	text-indent: 3px;
+	overflow: hidden;
+	margin: 0 auto;
+	outline: none;
+	border: 1px solid #EE782A;
+	border-top-color: rgb(238, 120, 42);
+	border-right-color: rgb(238, 120, 42);
+	border-bottom-color: rgb(238, 120, 42);
+	border-left-color: rgb(238, 120, 42);
+}
+
+.effectBtn:before {
+	width: 100px;
+	height: 100px;
+	content: '';
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: -1;
+	transition: -webkit-transform .25s 0s;
+	transition: transform .25s 0s;
+	transition: transform .25s 0s, -webkit-transform .25s 0s;
+	background: #EE782A;
+	border-radius: 50%;
+	-webkit-transform: translate3d(-50%, -50%, 0) scale(0);
+	-moz-transform: translate3d(-50%, -50%, 0) scale(0);
+	-ms-transform: translate3d(-50%, -50%, 0) scale(0);
+	transform: translate3d(-50%, -50%, 0) scale(0);
+	background-color: #EE782A;
+}
+
+.effectBtn:after {
+	width: 100px;
+	height: 100px;
+	background-color: #EE782A;
+	content: '';
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: -1;
+	transition: -webkit-transform .25s 0s;
+	transition: transform .25s 0s;
+	transition: transform .25s 0s, -webkit-transform .25s 0s;
+	background: 0 0;
+	border: 5px solid #EE782A;
+	border-radius: 50%;
+	-webkit-transform: translate3d(-50%, -50%, 0) scale(0);
+	-moz-transform: translate3d(-50%, -50%, 0) scale(0);
+	-ms-transform: translate3d(-50%, -50%, 0) scale(0);
+	transform: translate3d(-50%, -50%, 0) scale(0);
+}
+
+.effectBtn:hover {
+	background: transparent !important;
+	transition-delay: .6s, .35s;
+	-webkit-transition-delay: .6s, .35s;
+	-moz-transition-delay: .6s, .35s;
+	-ms-transition-delay: .6s, .35s;
+	color: #fff;
+}
+
+.effectBtn:hover::before {
+	-webkit-transition: -webkit-transform .5s .15s;
+	transition: -webkit-transform .5s .15s;
+	transition: transform .5s .15s;
+	transition: transform .5s .15s, -webkit-transform .5s .15s;
+	-webkit-transform: translate3d(-50%, -50%, 0) scale(1);
+	-webkit-transform: translate3d(-50%, -50%, 0) scale(1);
+	-moz-transform: translate3d(-50%, -50%, 0) scale(1);
+	-ms-transform: translate3d(-50%, -50%, 0) scale(1);
+	transform: translate3d(-50%, -50%, 0) scale(1);
+}
+
+.effectBtn:hover::after {
+	-webkit-transition: -webkit-transform .5s 0s;
+	transition: -webkit-transform .5s 0s;
+	transition: transform .5s 0s;
+	transition: transform .5s 0s, -webkit-transform .5s 0s;
+	-webkit-transform: translate3d(-50%, -50%, 0) scale(1);
+	-webkit-transform: translate3d(-50%, -50%, 0) scale(1);
+	-moz-transform: translate3d(-50%, -50%, 0) scale(1);
+	-ms-transform: translate3d(-50%, -50%, 0) scale(1);
+	transform: translate3d(-50%, -50%, 0) scale(1);
+}
+/* 按钮 end */
+
+/* 成功案例（导航）最后一块 begin */
+.hoverShow ul li{
+	position:relative;
+	float:left;
+	width:285px;
+    height:356px;
+    margin:0 7.5px;
+    overflow:hidden;
+}
+.hoverShow ul li img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.hoverShow ul li .text{
+	position:absolute;
+	bottom:0;
+	width:100%;
+	height:96px;
+	text-align:center;
+	background:#434343;
+	color:#fff;
+	transition:.6s;
+}
+
+.hoverShow ul li .text .bigTitle{
+	font-size:20px;
+	line-height:20px;
+	margin-top:20px;
+}
+.hoverShow ul li .text .lessonIntro{
+	font-size:14px;
+	line-height:14px;
+	margin-top:10px;
+}
+.hoverShow ul li .text .line{
+	background:#EE782A;
+}
+.hoverShow ul li .text .pageList{
+	font-size:12px;
+	line-height:22px;
+}
+.hoverShow ul li .text .btn{
+    width:80px;
+    height:20px;
+    margin:20px auto 0!important;
+    font-size:12px;
+    line-height:8px;
+    letter-spacing:2px;
+    text-indent:2px;
+    border:1px solid #EE782A;
+}
+.hoverShow ul li .text .btn a{
+	color:#EE782A;
+}
+.hoverShow ul li .lessonPage{
+	transition: .8s;
+    height: 0;
+}
+.hoverShow ul li:hover .lessonPage{
+	/*display:block;*/
+	height: auto;
+}
+.hoverShow  ul li:hover .lessonIntro{
+	display:none;
+}
+.hoverShow  ul li:hover .text{
+	height:237px;
+}
+/* 成功案例（导航）最后一块 end */
+/* successful begin */
+.successful.caseStudy ul{
+	padding-top:30px;
+}
+.successful.caseStudy ul li{
+	float:left;
+	width:380px;
+    height:416px;
+    margin:15px 10px;
+    box-shadow: 0px 0px 10px 1px rgba(237,120,41,0.6);
+    cursor: pointer;
+}
+.successful.caseStudy ul li .img{
+	width:340px;
+    height:202px;
+    margin:20px;
+}
+.successful.caseStudy ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}    
+.successful.caseStudy ul li .partition{
+	width:290px;
+    height:9px;
+}
+.successful.caseStudy ul li .partition img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.successful.caseStudy ul li .text{
+	padding-left:20px;
+    font-size:16px;
+    line-height:16px;
+    margin-top:30px;
+    font-weight:400;
+    color:#333;
+}
+.successful.caseStudy ul li .text p{
+	margin-top:14px!important;
+}
+.successful.caseStudy.swiperSelf  .swiper-pagination-bullet{
+	width:200px;
+}  
+/* successful end */
+/* camp begin */
+.camp{
+	width:100%;
+}
+.camp .campMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.campContent{
+	margin-top:30px;
+	height:430px;
+	width:100%;
+	background:#ed7829;
+}
+.campContent .campContentMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.campContent .campContentMin .campContentLeft{
+	float:left;
+	width:560px;
+	padding-top:44px;
+}
+.campContent .campContentMin .campContentLeft .page{
+	font-size:12px;
+    line-height:20px;
+    color:#fff;
+}
+.campContent .campContentMin .campContentLeft .title{
+	font-size:14px;
+    line-height:14px;
+    margin:22px 0 16px 0!important;
+    color:#fff;
+}
+.campContent .campContentMin .campContentLeft .timeTable{
+	width:155px;
+    height:61px;
+    border:1px solid #fff;
+    text-align:center;
+    margin-top:30px;
+}
+.campContent .campContentMin .campContentLeft .timeTable .tableCol{
+	font-size:16px;
+    line-height:30.5px;
+    color:#fff;
+    font-weight:400;
+}
+.campContent .campContentMin .campContentLeft .timeTable .tableCol span{
+	font-weight:300;
+	font-size:14px;
+}
+.campContent .campContentMin .campContentRight{
+	position:absolute;
+	top:-78px;
+	right:0;
+}
+.campContent .campContentMin .campContentRight .pic{
+	width:600px;
+    margin-left:40px;
+}
+.campContent .campContentMin .campContentRight img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.campContent .campContentMin .campContentRight .open{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	width:144px;
+	height:144px;
+}
+.campContent .campContentMin .campContentRight .open img{
+	display:block;
+	width:144px;
+	height:144px;
+}
+/* camp end */
+/* oneSystemSuccess begin */
+
+.oneSystemSuccess {
+	width: 100%;
+}
+
+.oneSystemSuccess .oneSystemSuccessMin {
+	margin: -120px auto 0;
+	background-color: #fff;
+	width: 1200px;
+}
+
+.sameMask ul.maskUl li .text {
+	width: 240px;
+	margin: 20px 26px;
+}
+
+.oneSystemSuccess ul li {
+	width: 260px;
+	float: left;
+	margin-right: 53px;
+	margin-bottom: 40px;
+	height: 310px;
+}
+
+.oneSystemSuccess ul li:nth-of-type(4n) {
+	margin-right: 0;
+}
+
+.oneSystemSuccess ul li>a>.img {
+	position: relative;
+	width: 240px;
+	height: 240px;
+	border: 3px solid #EE782A;
+}
+
+.oneSystemSuccess ul li img {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.oneSystemSuccess ul li:hover .img {
+	background: #EE782A;
+}
+
+.oneSystemSuccess ul li:hover a:last-child {
+	background: #EE782A;
+}
+
+.oneSystemSuccess ul li .pick {
+	position: absolute;
+	width: 240px;
+	height: 240px;
+	margin: 23px 0 0 23px;
+}
+
+.oneSystemSuccess ul li .text .title {
+	padding: 0!important;
+}
+
+.oneSystemSuccess.swiperSelf .swiper-pagination{
+	margin-bottom:15px!important;
+	margin-top:0;
+}
+
+/* oneSystemSuccess end */
+/* list spanAndintro begin */
+.summaryList ul li{
+	height: 12px;
+    margin-bottom: 14px;
+    padding-left:25px;
+}
+.summaryList ul li .summaryWord{
+	font-size: 12px;
+    line-height: 12px;
+    color: #ed7829;
+    font-weight: 400;
+    display: inline;
+}
+.summaryList ul li .intro{
+	color: #333;
+    display: inline;
+    font-size: 12px;
+    line-height: 12px;
+}
+/* list spanAndintro end */
+/* whyChancePS begin */
+.whyChancePS{
+	width:100%;
+	height:520px;
+	padding-top:20px;
+	background:url(../images/portfolioTraining/BTECArt/btecykkc_ssm_bg.jpg) no-repeat center center;
+}
+.whyChancePS .whyChancePSMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.whyChancePS .whyChancePSMin ul{
+	margin-top:30px;
+}
+.whyChancePS .whyChancePSMin ul li{
+	position:relative;
+	float:left;
+	width: 270px;
+    height: 270px;
+    margin: 0 10px;
+}
+.whyChancePS .whyChancePSMin ul li .img{
+	position:absolute;
+	top:0;
+	left:0;
+	width: 270px;
+    height: 270px;
+}
+.whyChancePS .whyChancePSMin ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.whyChancePS .whyChancePSMin ul li .content{
+	position:relative;
+	width:100%;
+	height:100%;
+}
+.whyChancePS .whyChancePSMin ul li .iconImg{
+	width: 42px;
+    height: 36px;
+    margin: 51px auto 0;
+}
+.whyChancePS .whyChancePSMin ul li .iconImg img{
+	display:block;
+	width:100%;
+	height:100%;
+}   
+.whyChancePS .whyChancePSMin ul li .smallTitle{
+	font-size: 14px;
+    line-height: 14px;
+    color: #252626;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 400;
+}
+.whyChancePS .whyChancePSMin ul li .page{
+	width: 205px;
+    font-size: 12px;
+    line-height: 20px;
+    margin: 11px auto 0;
+    text-align: center;
+    color: #252626;
+}
+/* whyChancePS end */
+/* workEvaluation begin */
+.workEvaluation{
+	width:100%;
+	height:562px;
+	padding-top:10px;
+	background:#333;
+}
+.workEvaluation .workEvaluationMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.workEvaluation .workEvaluationMin .workEvaluationList{
+	margin-top:50px;
+}
+.workEvaluation .workEvaluationMin .workEvaluationLeft{
+	float:left;
+	width: 566px;
+    height: 317px;
+}
+.workEvaluation .workEvaluationMin .workEvaluationRight{
+	float:left;
+	width: 570px;
+	margin:15px 0 0 60px;
+	color:#fff;
+}
+.workEvaluation .workEvaluationMin .workEvaluationLeft img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.workEvaluation .workEvaluationMin .workEvaluationRight dt{
+	font-size: 16px;
+    line-height: 16px;
+    font-weight:400;
+    color:#fff;
+    margin-top: 20px;
+}
+.workEvaluation .workEvaluationMin .workEvaluationRight dd{
+	font-size: 12px;
+    line-height: 20px;
+    color: #999;
+    margin-top: 8px!important;
+}
+/* workEvaluation end */
+/* 留学干货 按钮 begin */
+.majorbBtn .titleBtn a{
+	width:125px;
+    height:40px;
+    line-height:40px;
+    text-align:center;
+    margin:15px 0;
+    display:inline-block;
+    box-shadow: 0px 0px 10px 1px rgba(153,153,153,0.6);
+    border-radius:30px;
+    color:#90c320;
+    font-weight:400;
+    transition:.6s;
+}
+.majorbBtn .titleBtn a:hover{
+	background:#90c320;
+	color:#fff;
+}
+/* 留学干货 按钮 end */
+/* title begin */
+.sameTitle .title{
+	text-align:center;
+}
+.sameTitle .title .bigTitle{
+	font-size:20px;
+	line-height:20px;
+	color:#323431;
+	padding-top:60px;
+}
+.sameTitle .line{
+	width:24px;
+    height:1px;
+    margin:16px auto!important;
+    background:#323431;
+}
+.sameTitle .title .smallTitle{
+	font-size:16px;
+	line-height:16px;
+	margin-bottom:20px!important;
+}
+/* title end */
+/* artNews begin */
+.artNews{
+	width:100%;
+	height:470px;
+	background:url(../images/academy/artisticDesigning/yszy_zx_bg.jpg) no-repeat center center;
+}
+.artNews .artNewsMin{
+	width:1200px;
+	margin:0 auto;
+}
+.artNews .artNewsMin ul{
+	margin-top:30px;
+}
+.artNews .artNewsMin ul li{
+	float:left;
+	width: 208px;
+    padding: 8px;
+    padding-bottom: 24px;
+    background: #fff;
+    box-sizing: content-box;
+    margin-right:20px;
+    cursor:pointer;
+}
+.artNews .artNewsMin ul li:last-child{
+	margin-right:0;
+}
+.artNews .artNewsMin ul li img{
+	display:block;
+	width: 208px;
+}
+.artNews .artNewsMin ul li .page{
+    font-size: 12px;
+    line-height: 19px;
+    margin-top: 7px;
+    height: 38px;
+} 
+.artNews .artNewsMin ul li .page a{
+	color:#333;
+}
+.artNews .artNewsMin ul li .time{
+	font-size: 14px;
+    line-height: 14px;
+    color: #999;
+    text-align: left;
+    margin-top: 7px;
+    font-weight:200;
+}
+/* artNews end */

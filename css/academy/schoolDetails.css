@@ -1,0 +1,283 @@
+/* banner begin */
+.banner{
+	position:relative;
+	width:100%:
+	height:530px;
+}
+.banner>.img{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%:
+	height:450px;
+}
+.banner>.img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.banner .text{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+	padding-top:120px;
+}	
+.banner .text .img{
+	float:left;
+	width: 165px;
+    height: 165px;
+}
+.banner .text .img img{
+	width: 165px;
+    height: 165px;
+    border-radius:100%;
+}
+.banner .text .schoolParticular{
+	float:left;
+	width: 575px;
+    height: 270px;
+    padding-left: 80px;
+    float: left;
+    color: #fff;
+    box-sizing: content-box;
+}
+.banner .text .schoolParticular .bigChineseTitle{
+	font-size: 24px;
+    line-height: 24px;
+}
+.banner .text .schoolParticular .bigEnglishTitle{
+	font-size: 14px;
+    line-height: 14px;
+    margin-top: 20px;
+    font-weight:300;
+}
+.banner .text .schoolParticular  .schoolAddress{
+	font-size: 14px;
+    line-height: 14px;
+    margin-top: 20px;
+}
+.banner .text .schoolParticular  .schoolAddress img{
+	vertical-align: middle;
+	margin-right:14px;
+	display:inline-block;
+}
+.banner .text .schoolParticular .upTpTime{
+	font-size: 16px;
+    line-height: 16px;
+    margin-top: 20px;
+}
+.banner .text .schoolParticular .schoolAdvantage{
+    font-size: 16px;
+    line-height: 16px;
+    margin-top: 20px;
+}
+.banner .text .btns{
+	width: 380px;
+    float: left;
+    margin-top: 120px; 
+}
+.banner .text .btns .btnOne{
+	background: #90c320;
+    text-align: center;
+    width: 160px;
+    height: 44px;
+    font-size: 24px;
+    line-height: 44px;
+    color: #fff;
+    float: left;
+    margin: 0 15px;
+    cursor: pointer;
+    border-radius:3px;
+}      
+.banner .text .btns .btnOne a{
+	color: #fff;
+}
+.banner .aboutSchool{
+	width:1200px;
+	height:138px;
+	float: left;
+    background: #fff;
+    box-shadow: 0px 0px 10px 1px rgba(51,51,51,0.6);
+}  
+.banner .aboutSchool ul li{
+	float:left;
+	width: 200px;
+    border: 0;
+    height: 70px;
+    margin-top: 34px;
+    text-align: center;
+    color: #333;
+}
+.banner .aboutSchool ul li .aboutTop{
+	font-size: 30px;
+    line-height: 30px;
+    width: 200px;
+}
+.banner .aboutSchool ul li .line{
+	width: 24px;
+    height: 1px;
+    margin: 16px auto;
+    background:#333;
+}
+.banner .aboutSchool ul li .aboutBottom{
+	font-size: 14px;
+    line-height: 14px;
+}
+/* banner end */
+/* schoolContent begin */
+.schoolContent{
+	width:100%;
+}
+.schoolContent .schoolContentMin{
+	width:1200px;
+	margin:0 auto;
+	padding: 60px 0;
+}
+.schoolContent .schoolContentMin .schoolContentTab{
+	float:left;
+	width: 874px;
+    min-height: 630px;
+    background-color: #fff;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    border-radius:5px;
+}
+.schoolContent .schoolContentMin .schoolContentFix{
+	float:right;
+    width: 272px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: left;
+    color: #0f0f0f;
+}
+.schoolContent .schoolContentMin .schoolContentFix>div{
+	 border: 1px solid #cfcfcf; 
+	 border-radius:5px;
+}
+.schoolContent .schoolContentMin .schoolContentTab ul{
+	width: 874px;
+    height: 59px;
+    background: #f8f8f8;
+    box-shadow: 0 1px 6px rgba(51,51,51,0.3);
+}
+.schoolContent .schoolContentMin .schoolContentTab li{
+	float:left;
+	height: 18px;
+    font-size: 18px;
+    line-height: 18px;
+    padding: 0 30px;
+    margin-top: 20px;
+    border-left: 1px solid #cfcfcf;
+    color: #6f6f6f;
+}
+.schoolContent .schoolContentMin .schoolContentTab li.active{
+	color: #84c535;
+}
+.schoolContent .schoolContentMin .schoolContentTab li:first-child{
+	border:0;
+}
+.schoolContent .schoolContentMin .schoolContentTab .contentSchool{
+	padding: 45px 35px;
+}
+.schoolContent .schoolContentMin .schoolContentTab .contentSchool h2{
+	font-size: 18px;
+    line-height: 18px;
+    font-weight: bold;
+    color: #0f0f0f;
+    margin-top: 30px!important;
+}
+.schoolContent .schoolContentMin .schoolContentTab .contentSchool .pages{
+	margin-top: 20px;
+}
+.schoolContent .schoolContentMin .schoolContentTab .contentSchool .pages a{
+	color:#333;
+}
+.schoolContent .schoolContentMin .schoolContentTab .contentSchool .contentSchoolList .contentSchoolOne:last-child a:last-child{
+	color: rgb(146, 208, 80);
+    text-decoration: underline;
+}
+.schoolContent .schoolContentMin .schoolContentFix .formNews{
+    padding: 25px 0;
+}
+.schoolContent .schoolContentMin .schoolContentFix .formNews h2{
+	margin-bottom: 15px!important;
+    font-size: 18px;
+    line-height: 18px;
+    text-align:center;
+    color: #90c320;
+}
+.schoolContent .schoolContentMin .schoolContentFix .formNews .formType{
+	margin-bottom: 10px;
+	text-align:center;
+}
+.schoolContent .schoolContentMin .schoolContentFix .formNews .formType input{
+	display: inline-block;
+    background-color: #f3f3f3;
+    padding-left: 10px;
+	width: 190px;
+    height: 25px;
+}
+.schoolContent .schoolContentMin .schoolContentFix .formNews .formBtn{
+    width: 110px;
+    height: 30px;
+    font-size: 14px;
+    line-height: 30px;
+    margin: 15px auto 0;
+    background-color: #90c320;
+    color:#fff;
+    border-radius:5px;
+    text-align:center;
+}
+.schoolContent .schoolContentMin .schoolContentFix .aboutNews{
+	margin-top: 20px;
+    font-size: 12px;
+    line-height: 20px;
+    padding:10px;
+}
+.schoolContent .schoolContentMin .schoolContentFix .aboutNews h2{
+	font-size:18px;
+}
+.schoolContent .schoolContentMin .schoolContentFix .aboutNews ul li{
+	height: 83px;
+    padding: 8px 0;
+    border-bottom: 1px solid #cfcfcf;
+    box-sizing:content-box;
+}
+.schoolContent .schoolContentMin .schoolContentFix .aboutNews ul li:last-child{
+	border-bottom:0;
+}
+.schoolContent .schoolContentMin .schoolContentFix .aboutNews ul li a{
+	color:#0f0f0f;
+}
+.schoolContent .schoolContentMin .schoolContentFix .aboutNews ul li .img{
+	float:left;
+	width: 121px;
+    height: 83px;
+}
+.schoolContent .schoolContentMin .schoolContentFix .aboutNews ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.schoolContent .schoolContentMin .schoolContentFix .aboutNews ul li .title{
+    width: 120px;
+    height: 71px;
+    padding-left: 10px;
+    line-height: 17px;
+    float: left;
+    overflow:hidden;
+}
+.schoolContent .schoolContentMin .schoolContentFix .aboutNews ul li .time{
+	float:left;
+	width: 120px;
+    height: 12px;
+    font-size: 12px;
+    line-height: 12px;
+    padding-left: 10px;
+    color: #8f8f8f;
+}
+.sameTitle .line{
+	height:2px;
+	background:#1e8c1e;
+}
+/* schoolContent end */

@@ -1,0 +1,470 @@
+/* banner begin */
+.banner{
+	position:relative;
+	width:100%;
+}
+.banner .bannerImg{
+	width:100%;
+	height:450px;
+}
+.banner .bannerImg img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.banner .floatPiece{
+	position:absolute;
+	top:55px;
+	left:150px;
+	width:1200px;
+    height: 340px;
+    background:#fff;
+}
+.banner .floatPiece .floatPieceImg{
+	position:relative;
+	float:left;
+	width: 238px;
+    height: 238px;
+    border: 1px solid #333;
+    margin:40px 0 0 100px;
+}
+.banner .floatPiece .floatPieceTab{
+	float:left;
+	width: 680px;
+	margin:90px 0 0 80px;
+}
+.banner .floatPiece .floatPieceImg .img{
+	width: 240px;
+    height: 240px;
+    margin:19px 0 0 19px;
+}
+.banner .floatPiece .floatPieceImg .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.banner .floatPiece .floatPieceImg .text{
+	position:absolute;
+	top:95px;
+	left:19px;
+	width: 240px;
+    height: 96px;
+    background: rgba(0,0,0,0.85);
+    text-align: center;
+}
+.banner .floatPiece .floatPieceImg .text .chineseName{
+	font-size: 24px;
+    line-height: 24px;
+    margin-top: 16px;
+    font-size: 24px;
+    line-height: 24px;
+    margin-top: 16px;
+    color:#fff;
+    font-weight:bold;
+}
+.banner .floatPiece .floatPieceImg .text .line{
+	width: 24px;
+    height: 1px;
+    margin: 15px auto 0;
+    background:#fff;
+}
+.banner .floatPiece .floatPieceImg .text .englishName{
+	font-size: 12px;
+    line-height: 12px;
+    margin-top: 15px;
+    color:#fff;
+}
+.banner .floatPiece .floatPieceTab ul{
+	width: 680px;
+    height: 29px;
+    font-size: 20px;
+    line-height: 20px;
+    color: #333;
+    font-weight: 500;
+    border-bottom: 1px solid #ccc;
+}
+    
+.banner .floatPiece .floatPieceTab ul li{
+	height: 28px;
+	margin-right: 48px;
+    cursor: pointer;
+    float:left;
+    transition:.6s;
+} 
+.banner .floatPiece .floatPieceTab ul li.active{
+	color: #ee782a;
+	border-bottom: 2px solid #ee782a;
+	margin-top:1px;
+}
+.banner .floatPiece .floatPieceTab .typeListContent{
+	font-size: 14px;
+    line-height: 22px;
+    color: #666;
+    margin-top: 22px;
+}      
+/* banner end */
+/* college begin */
+.college{
+	position:relative;
+	width:100%;
+}
+.college .collegeMin{
+	width:1200px;
+	margin:0 auto;
+}
+.sameTitle .line{
+	background:#00CC00;
+}
+.college .collegeTab{
+	width:100%;
+	height:760px;
+}
+.college .bgImg{
+	/*position:absolute;*/
+	width:100%;
+	height:790px;
+	margin-top:113px;
+}
+.college .bgImg img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.college .bgColor{
+	position:absolute;
+	top:0;
+	left:50%;
+	width: 1200px;
+    height: 384px;
+    margin-left: -600px;
+    margin-top: 165px;
+    background:#333;
+}
+.college .tabContent{
+	position:absolute;
+	top:165px;
+	left:50%;
+	transform:translate(-50%);
+	width:1200px;
+	margin:0 auto;
+}
+.college .tabContent>ul{
+	width: 360px;
+    height: 52px;
+    margin: 40px auto 0;
+}
+.college .tabContent>ul li{
+	float:left;
+	width: 178px;
+    height: 50px;
+    font-size: 22px;
+    line-height: 50px;
+    text-align:center;
+    border: 1px solid #ee782a;  
+    cursor: pointer; 
+    color:#ee782a;
+    transition:.6s;
+}
+.college .tabContent>ul li.active{
+	background: #ee782a;
+    color: #fff;
+}   
+.college .tabContent .List{
+	width: 960px;
+    height: 700px;
+    margin: 20px auto 0;
+} 
+.college .tabContent .List>div{
+	float:left;
+	width: 440px;
+	margin: 0 20px;
+	color: #fff;
+	text-align:center;
+}
+.college .tabContent .List>div .countryType{
+	font-size: 36px;
+    line-height: 36px;
+    padding-top: 18px;
+    box-sizing:content-box;
+}
+.college .tabContent .List>div .onTop{
+	font-size: 18px;
+    line-height: 18px;
+    margin-top: 10px;
+    font-weight:400;
+    padding-bottom:15px;
+    box-sizing: content-box;
+}
+.college .tabContent .List>div:first-child .countryName{
+	background: url(../../images/academy/studentDetails/major_ygbg.jpg) no-repeat center center;
+	background-size:cover;
+}  
+.college .tabContent .List>div:last-child .countryName{
+	background: url(../../images/academy/studentDetails/major_mgbg.jpg) no-repeat center center;
+	background-size:cover;
+}    
+.college .tabContent .List .schoolList{
+	width: 440px;
+    padding: 15px 0;
+    background:#fff;
+}
+.college .tabContent .List .schoolList ul{
+	width: 350px;
+    padding: 0 45px;
+    box-sizing:content-box;
+}
+.college .tabContent .List .schoolList ul li{
+	padding: 5px 0;
+    height: 45px;
+    box-sizing:content-box;
+}
+.college .tabContent .List .schoolList ul .schoolFlag{
+	float:left;
+	width:45px;
+	height:45px;
+}
+.college .tabContent .List .schoolList ul .schoolFlag img{
+	display:block;
+	width: 45px;
+    height: 45px;
+    border-radius:200%;
+}
+.college .tabContent .List .schoolList ul .text{
+	float:left;
+    margin-left: 15px;
+    margin-top: 5px;
+    width: 290px;
+    text-align:left;
+}
+.college .tabContent .List .schoolList ul .text p a{
+	font-size: 18px;
+    line-height: 18px;
+    color:#333;
+}
+.college .tabContent .List .schoolList ul .text span{
+	display: block;
+	font-size: 11px;
+    line-height: 12px;
+    margin-top: 10px;
+    color:#999;
+}
+.college .tabContent .List:last-child{
+	display:none;
+}   
+/* college end */
+/* portfolio begin */
+.portfolio{
+	position:relative;
+	width:100%;
+	height:660px;
+}
+.portfolio .portfolioImg{
+	position:absolute;
+	top:0;
+	z-index:1;
+	height: 525px;
+}
+.portfolio .portfolioImg img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.portfolio .title{
+	position:absolute;
+	z-index:3;
+	width:100%;
+}
+.portfolio .title .bigTitle,
+.portfolio .title .smallTitle{
+	color:#fff;
+}
+.portfolio .slide{
+	position:absolute;
+	width: 890px;
+    height: 500px;
+    top:170px;
+    left:50%;
+    transform:translate(-50%);
+    z-index:300;
+}
+.portfolio .slide .slideBg{
+	width: 890px;
+    height: 500px;
+}
+.portfolio .slide .slideBg img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.portfolio .slide .swiper-slide{
+	width: 800px;
+    height: 400px;
+    padding: 50px 40px;
+    box-sizing: content-box;
+}
+.portfolio .slide .swiper-container{
+	overflow:hidden;
+	position:absolute;
+	top:0;
+	left:0;
+	width: 890px;
+    height: 500px;
+}
+.portfolio .slide .swiper-slide .swiperInBox .img{
+	float:left;
+	width: 630px;
+    height: 375px;
+}
+.portfolio .slide .swiper-slide .swiperInBox .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.portfolio .slide .swiper-slide .swiperInBox .text{
+	float:left;
+    width: 120px;
+    height: 287px;
+    margin-top: 88px;
+    margin-left: 50px;
+}
+.portfolio .slide .swiper-slide .text img{
+	display:block;
+	width:100px;
+	height:100px;
+	border-radius:100%;
+	margin:0 auto;
+}
+.portfolio .slide .swiper-slide .text .studentName{
+	font-size: 18px;
+    line-height: 18px;
+    margin-top: 25px;
+    font-weight:400;
+    color:#323431;
+    text-align:center;
+}
+.portfolio .slide .swiper-slide .text .line{
+	background:#333;
+}  
+.portfolio .slide .swiper-slide .text .collegeName,
+.portfolio .slide .swiper-slide .text .typeName{
+	font-size: 12px;
+    line-height: 12px;
+    color: #323431;
+    margin-top: 10px;
+    text-align:center;
+}
+.portfolio .slide .control{
+	position:absolute;
+	bottom:90px;
+	right:60px;
+	z-index:2000;
+}
+.portfolio .slide .control>div{
+	width: 44px;
+	height: 22px;
+    display: inline-block;
+    cursor: pointer;
+    text-align:center;
+}
+/* portfolio end */
+/* successful begin */
+.successful{
+	width:100%;
+	height:500px;
+}
+.successful .successfulMin{
+	width:1200px;
+	margin:0 auto;
+}
+.successful .successfulMin ul li{
+	float: left;
+    width: 224px;
+    height: 265px;
+    margin: 20px 7.5px 0;
+}
+.successful .successfulMin ul li .img{
+	position:relative;
+	width: 224px;
+    height: 265px;
+}
+.successful .successfulMin ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.successful .successfulMin ul li .text .img{
+	float: left;
+    width: 45px;
+    height: 45px;
+}
+.successful .successfulMin ul li .text img{
+	float: left;
+    width: 45px;
+    height: 45px;
+}
+.sameMask ul.maskUl li .text {
+    width: 240px;
+    margin:0!important;
+}
+/* successful end */
+/* news begin */
+.news{
+	width:100%:
+}
+.news .newsMin{
+	width:1200px;
+	margin:0 auto;
+}
+.news .newsMin ul{
+	padding-bottom: 60px;
+}
+.news .newsMin ul li{
+	float:left;
+	width: 300px;
+    margin: 0 50px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #eee;
+    box-sizing: content-box;
+}
+.news .newsMin .bigTitle{
+	font-size: 18px;
+    line-height: 18px;
+    font-weight: 400;
+}
+.news .newsMin .bigTitle a{
+	color: #333;
+	transition:.6s;
+}  
+.news .newsMin .lineGreen{
+	width: 20px;
+    height: 1px;
+    margin-top: 10px;
+    background: #333;
+    transition:.6s;
+}
+.news .newsMin .page{
+	font-size: 12px;
+    line-height: 20px;
+    margin-top: 15px;
+    color:#333;
+}
+.news .newsMin .time{
+    font-size: 10px;
+    line-height: 10px;
+    color: #90c320;
+    margin-top: 15px;
+}
+.news .newsMin ul li:hover .bigTitle a{
+	color:#90c320;
+}
+.news .newsMin ul li:hover .lineGreen{
+	background:#90c320;
+}
+/* news end */
+
+
+
+
+
+
+

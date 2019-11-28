@@ -1,0 +1,157 @@
+.qmain22_nrk{
+	width: 837px;
+    height: 556px;
+    margin:0 auto;
+}
+
+.zf {
+    left: -100px;
+}
+.yf {
+    right: -100px;
+}
+.zf, .yf {
+    cursor: pointer;
+    width: 22px;
+    height: 80px;
+    z-index: 999999999;
+    position: absolute;
+    top: 259.5px;
+}
+#pagination div {
+    display: inline-block;
+    width: 100px;
+    height: 3px;
+    margin: 0 10px;
+    background: #ccc;
+    cursor: pointer;
+}
+
+
+#flipbook {
+	width: 837px;
+	height: 599px;
+	position: relative;
+}
+#flipbook .slide {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	left: 0;
+}
+
+#flipbook .slide .pic {
+	width: 837px;
+	height: 498px;
+}
+
+#flipbook .slide .title {
+	font-size: 18px;
+	color: #0f0f0f;
+	width: 837px;
+	line-height: 58px;
+	background-color: #fff;
+}
+
+#flipbook .slide .img {
+	width: 50%;
+	position: absolute;
+	top: 58px;
+	left: 0;
+	height: 498px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	background-size: 200% !important;
+	background-repeat: no-repeat !important;
+	-webkit-transition-property: -webkit-transform, box-shadow;
+	-webkit-transition-timing-function: linear, linear;
+	transition-property: transform, box-shadow;
+	transition-timing-function: linear, linear;
+	-webkit-transform-origin: 0 0;
+	transform-origin: 0 0;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+#flipbook {
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+
+#flipbook .prev,
+#flipbook .next {
+	z-index: 999999999;
+	position: absolute;
+	top: 58px;
+	width: 50%;
+	height: 498px;
+	box-sizing: border-box;
+	cursor: pointer;
+	-moz-box-sizing: border-box;
+	font-family: 'SSStandard', sans-serif;
+}
+
+#flipbook .next {
+	right: 0px;
+}
+
+#flipbook .prev {
+	left: 0px;
+}
+
+
+/*#flipbook .prev:hover, #flipbook .next:hover {
+	background: #1f6387;
+}
+
+#flipbook .prev:active {
+	box-shadow: inset -50px 0 30px -30px rgba(0,0,0,0.3), inset 0 0 10px rgba(0,0,0,0.3);
+}
+
+#flipbook .next:active {
+	box-shadow: inset 50px 0 30px -30px rgba(0,0,0,0.3), inset 0 0 10px rgba(0,0,0,0.3);
+}*/
+
+#flipbook .current {
+	z-index: 99999;
+}
+
+#flipbook .slide .content {
+	position: absolute;
+	bottom: -75%;
+	z-index: 99999999;
+	background: rgba(0, 0, 0, 0.3);
+	width: 100%;
+	left: 0;
+	padding: 20px;
+	font-size: 2.2em;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+#flipbook .slide .content a {
+	color: #fff;
+}
+
+#flipbook .slide .slideup {
+	bottom: 0;
+	z-index: 99999999;
+}
+
+#pagination {
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	bottom: -0px;
+	/*bottom: -43px;*/
+	right: 0px;
+}
+
+#pagination div.cur{
+	background:#ee782a;
+}
+
+
+/* ------- IGNORE */

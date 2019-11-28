@@ -1,0 +1,115 @@
+/* footer begin */
+footer{
+	width:100%;
+	background:#333;
+}
+footer a{
+	color:#ccc;
+}
+footer a:hover{
+	color:#ccc;
+}
+/* footer 上 */
+footer .container{
+	padding-top:55px;
+}
+footer .footerSelf{
+	height:163px;
+}
+footer .footerSelf .img a img{
+	display:block;
+	width:228px;
+    height:67px;
+}
+footer .footerSelf .cityTab div:first-child a{
+	font-size:12px;
+	line-height:12px;
+	padding:0 10px;
+	border-right:1px solid #ccc;
+}
+footer .footerSelf .cityTab div:first-child a:first-child{
+	padding-left:0;
+}
+footer .footerSelf .cityTab div:first-child a:last-child{
+	border-right:0;
+}
+footer .footerSelf .tabCity{
+    margin-top:27px;
+}
+footer .footerSelf .tabCity .tabCityOptions,
+footer .footerSelf .tabCity .tabCityOptions a,
+footer .footerSelf .tabCityContent div{
+	font-size:14px;
+	line-height:25px;
+	color:#ccc;
+}
+footer .footerSelf .tabCity .tabCityOptions a.active{
+	color:#00CC00;
+}
+footer .footerSelf .tabCityContent{
+	height:50px;
+    overflow:hidden;
+}
+footer .footerSelf .QRcode .img img{
+	display:block;
+	width:75px;
+    height:75px;
+    margin:0 auto;
+}
+footer .footerSelf .QRcode .text{
+	margin-top:19px;
+	font-size:14px;
+	line-height:14px;
+	text-align:center;
+	color:#ccc;
+}
+
+/* footer 中 */
+footer .footerLink .footerLinkTab{
+	height:26px;
+	border-bottom:1px solid #fff;
+}
+footer .footerLink .footerLinkTab a{
+	display:inline-block;
+	width:77px;
+	height:26px;
+	text-align:center;
+	font-size:16px;
+	line-height:26px;
+}
+footer .footerLink .footerLinkTab a.active{
+	color:#00CC00;
+	border-bottom:1px solid #00CC00;
+}
+footer .footerLink .footerLinkContent{
+	height:45px;
+	overflow:hidden;
+	color:#ccc;
+	margin-bottom:16px;
+}
+footer .footerLink .footerLinkContent>div{
+	margin-top:5px;
+}
+footer .footerLink .footerLinkContent>div a{
+	font-size:10px;
+	line-height:20px;
+	text-align:center;
+	padding-right:5px;
+	margin-right:5px;
+	border-right:1px solid #ccc;
+}
+footer .footerLink .footerLinkContent>div a:last-child{
+	border-right:0;
+	margin-right:0;
+	padding-right:0;
+}
+/* footer 下 */
+footer .footerCopy{
+	padding-top:30px;
+	color:#ccc;
+	font-size:14px;
+	line-height:20px;
+	text-align:center;
+	margin-bottom:45px;
+}
+/* footer end */

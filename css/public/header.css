@@ -1,0 +1,130 @@
+/* header begin */
+header{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:113px;
+	background-color:rgba(0,0,0,0.85);
+	z-index:1500;
+}
+/* header - left*/
+header .logo{
+	margin:31px 0;
+}
+header .logo .img{
+	padding-right:17px;
+	border-right:1px solid #fff;
+	margin-right:17px;
+}
+header .logo .img img{
+	display:block;
+	width:171px;
+	height:50px;
+}
+header .logo .text{
+	line-height:19px;
+	font-size:12px;
+	color:#fdfdfd;
+	margin:5px 0;
+}
+header .logo .img,
+header .logo .text{
+	float:left;
+}
+
+
+/* header - right*/
+header .headerRight{
+	color:#fdfdfd;
+	margin-top:30px;
+}
+/* navTo - breadNav */
+header .navTop{
+	line-height:28px;
+	font-size:10px;
+}
+header .navTop .breadNav{
+	text-align:right;
+	padding:0 6px 0 0;
+	border-right:1px solid #666;
+	color:#848484;
+}
+header .navTop .breadNav a{
+	color:#848484;
+} 
+header .navTop .breadNav a:hover{
+	color:#14ad00;
+}
+header .navTop .hotLine{
+	width:27%;
+	float:left;
+	text-align:right;
+	font-size:12px;
+	color:#14ad00;
+}
+
+/* navBottom - nav */
+header .navBottom .col-xs-1-9{
+	position:relative;
+	float: left;
+	width: 11.111111111%;
+	text-align:right;
+	line-height:55px;
+}
+header .navBottom .col-xs-1-9>a{
+	display:inline-block;
+	font-size:1em;
+	color:#fff;
+	border-bottom:2px solid transparent;
+}
+header .navBottom .col-xs-1-9>a:hover,
+header .navBottom .col-xs-1-9>a.active{
+	color:#00CC00;
+    text-decoration:none;
+    border-bottom:2px solid #00CC00;
+}
+/* dropdown-menu */
+header .navBottom .dropdown-menu{
+	padding:0;
+	border-radius:0;
+}
+header .navBottom .dropdown-menu a{ 
+	display:block;
+	position:relative;
+    height:50px;
+    line-height:50px;
+    color:#000;
+    font-size:12px;
+    border-bottom:1px solid #e4e4e4;
+    text-align:center;
+    padding:0;
+    background-color:#f2f2f2;
+    transition:0.5s;
+}
+header .navBottom .dropdown-menu a:hover{
+    background-color:#fff;
+    color:#00CC00;
+}
+header .navBottom .dropdown-menu a small{
+	width:25px;
+    height: 25px;
+    background-color:#00CC00;
+    color:#fff;
+    font-size:12px;
+    font-weight:300;
+    top:12.5px;
+    right:12.5px;
+    position:absolute;
+    text-align:center;
+    vertical-align:middle;
+    line-height:25px;
+    display:block;
+}
+   
+.action{
+	color:#00CC00 !important;
+	text-decoration:none !important;
+	border-bottom:2px solid #00CC00 !important;
+}
+/* header end */

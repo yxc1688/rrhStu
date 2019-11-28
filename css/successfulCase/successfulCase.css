@@ -1,0 +1,203 @@
+/* banner begin */
+.banner{
+	width:100%;
+}
+.banner img{
+	display:block;
+	max-width:100%;
+}
+/* banner end */
+
+/* offerCollages begin */
+.offerCollages{
+	width:100%;
+	font-weight:300;
+}
+.offerCollages .schoolList{
+	width:100%;
+	height:606px;
+	background:url(../../images/successfulCase/cgal_yx_bg.jpg) no-repeat center center;
+	background-size:cover;
+}
+.offerCollages .schoolList .schoolListMin{
+	width:1200px;
+	margin:0 auto;
+}
+.offerCollages .schoolList .schoolListMin ul{
+	padding-top:40px;
+}
+.offerCollages .schoolList .schoolListMin ul li{
+	position:relative;
+	float:left;
+	width:224px;
+	height:253px;
+	margin:10px 7.5px;
+}
+.offerCollages .schoolList .schoolListMin ul li img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.offerCollages .schoolList .schoolListMin ul li .img{
+	position:absolute;
+	top:0;
+	z-index:1;
+	width:224px;
+	height:253px;
+}
+.offerCollages .schoolList .schoolListMin ul li .schoolIntro{
+	position:relative;
+	z-index:3;
+	width:100%;
+	height:147px;
+	margin-top:106px;
+	background:#fff;
+}
+.offerCollages .schoolList .schoolListMin ul li .schoolIntro a{
+	position:absolute;
+	top:-35px;
+	left:calc(50% - 35px);
+	display:block;
+	width:70px;
+	height:70px;
+}
+.offerCollages .schoolList .schoolListMin ul li .schoolIntro p{
+	text-align:center;
+	font-weight:300;
+}
+.offerCollages .schoolList .schoolListMin ul li .schoolIntro a img{
+	display:block;
+	width:100%;
+	height:100%;
+	border-radius:50%;
+}
+.offerCollages .schoolList .schoolListMin ul li .schoolIntro a .more{
+	display:none;
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0;
+	font-size:16px;
+    line-height:70px;
+    border-radius:50%;
+    text-align:center;
+}
+.offerCollages .schoolList .schoolListMin ul li .schoolIntro .chineseName{
+	font-size:16px;
+	line-height:16px;
+	padding-top:50px;
+	font-weight:400;
+}
+.offerCollages .schoolList .schoolListMin ul li .schoolIntro .englishName{
+	font-size:12px;
+	line-height:12px;
+	margin-top:10px!important;
+}
+.offerCollages .schoolList .schoolListMin ul li .schoolIntro  .peopleNum{
+	font-size:12px;
+	line-height:12px;
+}
+.offerCollages .schoolList .schoolListMin ul li .schoolIntro  .line{
+	margin:10px auto 8px!important;
+}
+.offerCollages .schoolList .schoolListMin ul li:hover .schoolIntro{
+	background:rgba(51,51,51,0.9);
+}
+.offerCollages .schoolList .schoolListMin ul li:hover a img{
+	display:none;
+}
+.offerCollages .schoolList .schoolListMin ul li:hover .schoolIntro a .more{
+	display:block;
+	font-size:16px;
+	background:#1f873a; 
+    border:1px solid #fff;
+    box-shadow:0px 0px 10px 3px rgba(153,153,153,0);
+    color:#fff;
+}
+.offerCollages .schoolList .schoolListMin ul li:hover .schoolIntro p{
+	color:#fff;
+} 
+.offerCollages .schoolList .schoolListMin ul li:hover .schoolIntro  .line{
+	background:#fff;
+}
+/* offerCollages end */
+
+/* studentInterview begin */
+.successfulCase{
+	width:100%;
+}
+.successfulCase .successfulCaseMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+	padding-top:49px;
+}
+.successfulCase .successfulCaseMin>.title{
+	position:absolute;
+	top:-100px;
+	background:#fff;
+	width:100%;
+}
+.successfulCase .successfulCaseList .recordType{
+	position:relative;
+	text-align:right;
+}
+/*.successfulCase .successfulCaseList .recordType .position{
+	position:absolute;
+	width:100%;
+	height:39px;
+	border-bottom:1px solid #1f873a;
+	z-index:1;
+	top:0;
+}*/
+.successfulCase .successfulCaseList .recordType ul{
+	border-bottom:1px solid #1f873a;
+}
+.successfulCase .successfulCaseList .recordType li{
+	float:right;
+	font-size:20px;
+	line-height:37px;
+	padding:0 25px;
+}
+.successfulCase .successfulCaseList .recordType li a{
+	color:#333;
+}
+.successfulCase .successfulCaseList .recordType li.active{
+	position:relative;
+	bottom:-1px;
+	border:1px solid #1f873a;
+	-webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    background:#fff;
+    border-bottom:1px solid #fff; 
+}
+.successfulCase .successfulCaseList .recordType li.active a{
+	color:#1f873a;
+}
+/* successfulCase end */
+
+/* ourCourses begin */
+.ourCourses{
+	width:100%;
+}
+.ourCourses .ourCoursesMin{
+	width:1200px;
+	margin:0 auto;
+	margin:0 auto 80px;
+}
+.hoverShow ul li .text .trigon{ 
+	position: absolute;
+    top: -60px;
+    left: 113px;
+	display: block;
+    border-width:30px;
+    border-style:solid dashed dashed;
+    border-color:transparent transparent #434343;
+    font-size:0;
+    line-height:0;
+}
+/* ourCourses end */
+.sameMask ul.maskUl li .text {
+    width: 240px;
+	margin:0!important;
+}

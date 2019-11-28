@@ -1,0 +1,403 @@
+/* banner begin */
+.banner .swiper-slide{
+	height:475px;
+}
+.banner .swiper-slide img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.banner .swiper-pagination-bullet{
+	width:120px;
+	height:4px;
+	border-radius:0;
+	background:#999;
+	margin:0 5px;
+	opacity:1;
+}
+.banner .swiper-pagination .swiper-pagination-bullet-active{
+	background:#00CC00;
+}
+/* banner end */
+/* softwareCourse begin */
+.softwareCourse{
+	width:100%;
+}
+.softwareCourse .softwareCourseMin{
+	width:1200px;
+	margin:0 auto;
+}
+.oneClassTitle .title{
+	padding:30px 0 20px;
+	height:24px;
+	box-sizing:content-box;
+}
+.oneClassTitle .title .titlePiece{
+	float:left;
+	font-size:24px;
+    line-height:24px;
+    font-weight:bold;
+}
+.oneClassTitle .title .numVideo{
+	float:left;
+	color:#999;
+	height:24px;
+    font-size:14px;
+    line-height:24px;
+    margin-left:20px;
+}
+.oneClassTitle .title .numVideo span{
+	color:#ee782a;
+    margin:0 6px;
+}
+.oneClassTitle .title .moreContent{
+	float:right;
+}
+.oneClassTitle .title .moreContent a{
+	font-size:14px;
+    line-height:24px;
+    height:24px;
+    color:#999;
+}
+.oneClassTitle .title .moreContent img{
+	width:14px;
+	display:inline-block;
+    margin:0 0 3px 6px;
+    vertical-align:middle;
+}
+    
+.softwareCourse .softwareCourseMin .softwareCourseLeft{
+	float:left;
+	width:600px;
+	height:340px;
+	margin:7.5px 0;
+}
+.softwareCourse .softwareCourseMin .softwareCourseRight{
+	float:left;
+	width:600px;
+}
+.softwareCourse .softwareCourseMin .softwareCourseRight ul li{
+	float:left;
+	width:285px;
+    height:160px;
+    margin:7.5px 0 7.5px 15px;
+}
+.softwareCourse .softwareCourseMin img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+/* softwareCourse end */
+/* curriculumNew begin */
+.curriculumNew{
+	width:100%;
+}
+.curriculumNew .curriculumNewMin{
+	width:1200px;
+	margin:0 auto;
+}
+.curriculumNew .curriculumNewMin .curriculumNewList{
+	padding-bottom:15px;
+	border-bottom:1px solid #eee;
+}
+/* curriculumNew end */
+/* popularCourses begin */
+.popularCourses{
+	width:100%;
+}
+.popularCourses .popularCoursesMin{
+	width:1200px;
+	margin:0 auto;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li{
+	width:232px!important;
+    margin:10px 4px;
+    box-shadow:0px 0px 10px 2px rgba(0,0,0,0.2);
+    border-radius:7px;
+    overflow:hidden;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li .img{
+	width:230px;
+    height:145px;
+    margin:0 auto;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li .img>img{
+	display:block;
+	width:100%;
+	height:100%; 
+	border-radius:7px;
+} 
+.popularCourses.videoMask .mask{
+	height:145px!important;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li .text .textTitle1{
+    font-size:14px;
+    line-height:14px;
+    color:#333;
+    margin-top:15px!important;
+    padding:0 15px;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li .text .textTitle2{
+	font-size:12px;
+    line-height:12px;
+    margin:10px 15px 0!important;
+    padding-bottom:15px;
+    color:#999;
+    border-bottom:1px solid #eee;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li .text .teacher .teacherPic{
+    width:30px;
+    height:30px;
+    float:left;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li .text .teacher{
+    height:30px;
+    padding:20px 15px;
+    box-sizing:content-box;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li .text .teacher .teacherPic img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li .text .teacher .teacherIntro{
+	width:145px;
+	float:left;
+	font-size:12px;
+    line-height:12px;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li .text .teacher .teacherIntro .teacherName{
+    margin:0 0 0 15px;
+    color:#333;
+}
+.popularCourses .popularCoursesMin .popularCoursesList ul li .text .teacher .teacherIntro .teacherMajor{
+    margin:10px 0 0 15px;
+    color:#999;
+}
+/* popularCourses end */
+/* higherCourse begin */
+.higherCourse{
+	width:100%;
+}
+.higherCourse .higherCourseMin{
+	width:1200px;
+	margin:0 auto;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li{
+	width:390px;
+    margin-right:10px;
+    float:left;
+    transition:.6s;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .img{
+	width:390px;
+    height:235px;
+    position:relative;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .img div{
+	position:absolute;
+    bottom:0;
+    width:390px;
+    height:35px;
+    font-size:14px;
+    line-height:35px;
+    color:#fff;
+    text-align:center;
+    background:rgba(238,120,42,0.8);
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .img .overShow{
+	display:none;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li:hover{
+    box-shadow:0px 0px 10px 2px rgba(0,0,0,0.2);
+    margin-top:-10px;
+    margin-bottom:10px;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li:hover .img .overShow{
+	display:block;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li:hover .openTime{
+	display:none;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .text{
+	width:350px;
+    height:80px;
+    padding:15px 20px;
+    box-sizing:content-box;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .text .teacherPic{
+	float:left;
+	width:80px;
+	height:80px;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .text .teacherPic img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .text .teacherIntro{
+    float:left;
+    width:254px;
+    margin-left:15px;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .text .teacherIntro h4{
+    font-size:16px;
+    line-height:20px;
+    width:255px;
+    height:40px;
+    margin-top:-2px;
+    color:#333;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .text .teacherIntro>div{
+    border-left:1px solid #999;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .text .teacherIntro>div>div{
+	font-size:12px;
+    line-height:12px;
+    margin-left:5px;
+    color:#999;
+}
+.higherCourse .higherCourseMin .higherCourseList ul li .text .teacherIntro>div>div:last-child{
+	margin-top:10px;
+}
+.higherCourse .higherCourseMin .higherCourseChoice{
+	margin-top:60px;
+}
+.higherCourse .higherCourseMin .higherCourseChoice ul li{
+	float:left;
+	width:280px;
+    height:184px;
+    margin-right:15px;
+    border:2px solid #666;
+    border-radius:7px;
+}
+.higherCourse .higherCourseMin .higherCourseChoice ul li .img{
+    margin: 30px auto 0;
+    width: 54px;
+    height: 54px;
+}
+.higherCourse .higherCourseMin .higherCourseChoice ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.higherCourse .higherCourseMin .higherCourseChoice ul li .pageTitle{
+	margin-top:30px;
+    font-size:16px;
+    line-height:16px;
+    color:#666;
+    font-weight:500;
+    text-align:center;
+}
+.higherCourse .higherCourseMin .higherCourseChoice ul li .pageSmall{
+	margin-top:6px;
+    font-size:12px;
+    line-height:12px;
+    color:#999;
+    font-weight:300;
+    text-align:center;
+}
+/* higherCourse end */
+/* seriesCourses begin */
+.seriesCourses{
+	width:100%;
+}
+.seriesCourses .seriesCoursesMin{
+	width:1200px;
+	margin:0 auto;
+}
+.seriesCourses .seriesCoursesMin ul li{
+	float:left;
+	width:390px;
+    margin-right:10px;
+    cursor:pointer;
+}
+.seriesCourses .seriesCoursesMin ul li .img{
+	width:100%;
+	height:235px;
+	transition:.5s;
+}
+.seriesCourses .seriesCoursesMin ul li .img img{
+	display:block;
+	width:100%;
+	height:235px;
+}
+.seriesCourses .seriesCoursesMin ul li:hover .img{
+	margin-top:-10px;
+	height:245px;
+}
+.seriesCourses .seriesCoursesMin ul li:hover .img img{
+	box-shadow:0px 0px 7px 2px rgba(230,230,230,0.8);
+}
+.seriesCourses .seriesCoursesMin ul li .simpleIntro{
+	margin-top:10px;
+    font-size:14px;
+    line-height:14px;
+    color:#999;
+}
+/* seriesCourses end */
+/* tabType begin */
+.tabType{
+	width:100%;
+}
+.tabType .tabTypeMin{
+	width:1200px;
+	margin:0 auto;
+}
+.tabType .tabTypeMin .tabTypeList{
+	margin-top:80px;
+	height:39px;
+	border-bottom:1px solid #ccc;
+	line-height:45px;
+}
+.tabType .tabTypeMin .tabTypeList ul{
+	float:left;
+}
+.tabType .tabTypeMin .tabTypeList ul li{
+	float:left;
+    display:inline-block;
+	padding:7px 20px 12px;
+    font-size:20px;
+    line-height:20px;
+    height:39px;
+    cursor:pointer;
+}
+.tabType .tabTypeMin .tabTypeList ul li.active{
+	color:#ee782a;
+    border:1px solid #ccc;
+    border-bottom:1px solid #fff;	
+    border-radius:3px;
+}
+.tabType .tabTypeMin .tabTypeList .title{
+	float:right;
+	width:108px;
+	padding:0;
+}
+.tabType .tabTypeMin .tabTypeContent{
+    overflow:hidden;
+    height:310px;
+}
+.tabType .tabTypeMin .tabTypeContent ul{
+	margin-top:20px;
+    padding-bottom:80px;
+    box-sizing:content-box;
+    overflow:hidden;
+}
+.tabType .tabTypeMin .tabTypeContent ul li{
+	margin:0 10px;
+}
+.tabType .tabTypeMin .tabTypeContent ul li:first-child{
+	margin-left:0;
+}
+.tabType .tabTypeMin .tabTypeContent ul li:last-child{
+	margin-right:0;
+}
+    
+/* tabType end */
+
+    

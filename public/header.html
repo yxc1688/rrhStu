@@ -1,0 +1,128 @@
+<link rel="stylesheet" type="text/css" href="css/public/header.css"/>
+<!-- header begin -->
+<header>
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-4 padding0 clearfix logo">
+				<a href="#">
+					<div class="img"><img src="images/header/logo_header.png" /></div>
+					<div class="text">
+						<p>用艺术设计未来</p>
+						<p>using art to design your future</p>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-8 headerRight">
+				<div class="row navTop">
+					<div class="col-xs-8 col-xs-offset-4">
+						<div class="row">
+							<div class="col-xs-8 breadNav">
+								<a href="#">北京</a>-
+								<a href="#">上海</a>-
+								<a href="#">成都</a>-
+								<a href="#">深圳</a>-
+								<a href="#">重庆</a>-
+								<a href="#">郑州</a>-
+								<a href="#">西安</a>-
+								<a href="#">广州</a>-
+								<a href="#">纽约</a>-
+								<a href="#">伦敦</a>
+							</div>
+							<div class="hotLine">400-139-3918</div>
+						</div>
+					</div>
+				</div>
+				<nav class="row navBottom" id="nav">
+					<div class="col-xs-1-9">
+						<a href="index.html">首页</a>
+					</div>
+					<div class="col-xs-1-9 dropdown">
+						<a href="portfolioTraining/portfolioTraining.html" data-hover="dropdown">作品集培训</a>
+						<div class="dropdown-menu">
+							<li>
+								<a href="portfolioTraining.html">艺术留学作品集课程</a>
+							</li>
+							<li>
+								<a href="portfolioTraining/vipOne.html">
+									VIP-ONE里挑一
+									<small>荐</small>
+								</a>
+							</li>
+							<li>
+								<a href="portfolioTraining/oneSystem.html">
+									ONE-有体系
+									<small>荐</small>
+								</a>
+							</li>
+							<li>
+								<a href="portfolioTraining/UCPinterdisciplinary.html">UCP跨学科</a>
+							</li>
+							<li>
+								<a href="portfolioTraining/admissionOfficer.html">招生官联盟</a>
+							</li>
+							<li>
+								<a href="portfolioTraining/youngArtist.html">少年艺术家</a>
+							</li>
+							<li>
+								<a href="portfolioTraining/BTECArt.html">BTEC预科课程</a>
+							</li>
+							<li>
+								<a href="portfolioTraining/AlevelCourse.html">A-Level课程</a>
+							</li>
+						</div>
+					</div>
+					<div class="col-xs-1-9">
+						<a href="successfulCase/successfulCase.html">成功案例</a>
+					</div>
+					<div class="col-xs-1-9">
+						<a href="artTeacher/artTeacher.html">艺术导师</a>
+					</div>
+					<div class="col-xs-1-9 dropdown">
+						<a href="academy/academy.html" data-hover="dropdown">院校/专业</a>
+						<ul class="dropdown-menu">
+							<li>
+								<a href="academy/academy.html">艺术院校</a>
+							</li>
+							<li>
+								<a href="academy/artisticDesigning.html">艺术专业</a>
+							</li>
+						</ul>
+					</div>
+					<div class="col-xs-1-9">
+						<a href="studyMusic.html">音乐留学</a>
+					</div>
+					<div class="col-xs-1-9 dropdown">
+						<a href="artAbroad/artAbroad.html" data-hover="dropdown">留学干货</a>
+						<ul class="dropdown-menu">
+							<li>
+								<a href="artAbroad/artAbroad.html">留学干货</a>
+							</li>
+							<li>
+								<a href="artAbroad/activityArea.html">活动专区</a>
+							</li>
+						</ul>
+					</div>
+					<div class="col-xs-1-9">
+						<a href="oneClass/oneClass.html">ONE-学堂</a>
+					</div>
+					<div class="col-xs-1-9">
+						<a href="oneTV/oneTV.html">ONE-TV</a>
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</header>
+<script>
+	$(function () {
+		let href=location.href;
+		$('#nav>div>a').each(function (index,item) {
+			if(href.indexOf(item.getAttribute('href').slice(3))!==-1 && item.getAttribute('href').slice(3)!='index.html'){
+				$(this).addClass('action')
+			}
+		})
+	})
+</script>
+<!-- header end -->
+<script src="js/public/twitter-bootstrap-hover-dropdown.js" type="text/javascript" charset="utf-8"></script>
+	

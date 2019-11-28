@@ -1,0 +1,462 @@
+/* header begin */
+.header{
+	width:100%;
+    position: absolute;
+}
+.header header{
+	position:absolute;
+	width:100%;
+	margin:0 auto;
+	background-color: transparent;
+}
+.header header .container{
+	width:1200px;	
+	margin:0 auto;
+}
+/* header end */
+/* banner vadio  begin */
+.video-container{
+	position:relative;
+	width:100%;
+}
+.video-container video{
+	width:100%;
+	height:100vh;
+	object-fit:cover;
+}
+.video-container .videoimg{
+	display:block;
+	width:100%;
+	height:100%;
+	display:none;
+}
+.video-container .arrow{
+	display:inline-block;
+    width:30px;
+    height:30px;
+    background:url(../../images/oneTV/spzq_voide_arrow.png) no-repeat center center;
+    background-size:contain;
+    position:absolute;
+    left:50%;
+    bottom:100px;
+    margin-left:-15px;
+    z-index:100;
+    cursor:pointer;
+}
+.video-container .video-cover{
+    height:100%;
+    width:100%;
+    background:url(../../images/oneTV/spzq_voide_cover.png);
+    position:absolute;
+    background-size:4.5px;
+    left:0;
+    top:0;
+}
+.video-container .video-cover .solgn h3 img{
+	width:290px;
+    display:inline;
+}
+.video-container .video-cover .solgn{
+    position:absolute;
+    width:100%;
+    text-align:center;
+    z-index:1000;
+    top:50%;
+    transform:translateY(-50%);
+    color:#fff;
+    margin:auto;
+    display:inline-block;
+}   
+.video-container .volume{
+	position:absolute;
+    left:70px;
+    bottom:35px;
+    width:35px;
+    height:35px;
+    background:url(../../images/oneTV/spzq_voide_volume.png) no-repeat;
+    background-size:cover;
+    cursor:pointer;
+}
+  
+/* banner vadio  end */
+/* videoType begin */
+.videoType{
+	width:100%;
+}
+.videoType ul{
+	width:1200px;
+	margin:0 auto;
+	padding-top:30px;
+}
+.videoType ul li{
+	float:left;
+	width:171px;
+	text-align:center;
+}
+.videoType ul li a{
+	color:#262b2e;
+	font-weight:400;
+	transition:.6s;
+}
+.videoType ul li a:hover{
+	color:#90c320;
+}
+/* videoType end */
+/* tutorVideo begin */
+.tutorVideo{
+	width:100%;
+	margin-top:30px;
+}
+.tutorVideo .tutorVideoMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.tutorVideo .tutorVideoMin ul li{
+	float:left;
+	width:285px;
+	margin:10px 7.5px;
+	cursor:pointer;
+	box-shadow:0px 0px 8px 1px rgba(237,120,41,0.6);
+}
+.tutorVideo .tutorVideoMin ul li .img{
+	position:relative;
+	width:285px;
+    height:160px;
+    overflow:hidden;
+}
+.scaleImg .img img{
+	display:block;
+	width:100%;
+	height:100%;
+	transition:.6s;
+}  
+.scaleImg ul li .img .mask{
+	background:rgba(0,0,0,0.3);
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:2;
+    width:285px;
+    height:160px;
+    transition:.25s;
+}
+.scaleImg ul li .img .open{
+	position:absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,.35);
+    opacity:0;
+    transition:all .25s;
+    z-index:3;
+}
+.scaleImg ul li .img .open:before{
+	content: "";
+	position:absolute;
+    left:50%;
+    top:50%;
+    margin:-30px 0 0 -30px;
+    width:60px;
+    height:60px;
+    transition:all .25s;
+    background:url(../../images/oneTV/hk_new_index_icons3.png) 0 -115px;
+    transform:scale(1.5);
+}
+.scaleImg ul li .img:hover img{
+	transform:scale(1.1);
+}   
+.scaleImg ul li .img:hover .open{
+	background:rgba(0,0,0,.35);
+	opacity:1;
+}
+.scaleImg ul li .img:hover .open:before{
+	transform:scale(1);
+}
+.tutorVideo .tutorVideoMin ul li .text{
+	height:120px;
+}
+.tutorVideo .tutorVideoMin ul li .text .textTitle{
+	font-size:14px;
+    line-height:14px;
+    padding:15px;
+    width:255px;
+    font-weight:400;
+    white-space:nowrap;  
+    text-overflow:ellipsis; 
+    overflow:hidden;
+}
+.tutorVideo .tutorVideoMin ul li .text .textList{
+	padding:0 20px;
+    width:245px;
+    box-sizing:content-box;
+}
+.tutorVideo .tutorVideoMin ul li .text .textList .textListLeft{
+	width:52px;
+    height:52px;
+    float:left;
+    border-radius:100%;
+}   
+.tutorVideo .tutorVideoMin ul li .text .textList .textListLeft img{
+	display:block;
+	width:100%;
+	height:100%;
+	border-radius:100%;
+}
+.tutorVideo .tutorVideoMin ul li .text .textList .textListRight{
+	float:left;
+	width:152px;
+	margin-left:20px;
+    border-left:1px solid #ccc;
+    padding-left:20px;
+    box-sizing:content-box;
+}
+.tutorVideo .tutorVideoMin ul li .text .textList .textListRight p{
+	font-size:12px;
+    line-height:12px;
+}
+.tutorVideo .tutorVideoMin ul li .text .textList .textListRight .teacherName{
+    color:#333;
+    font-weight:400;
+}
+.tutorVideo .tutorVideoMin ul li .text .textList .textListRight .teacherSchool{
+	color:#666;
+	margin-top:10px!important;
+}
+.tutorVideo .tutorVideoMin ul li .text .textList .textListRight .teacherMajor{
+	color:#666;
+    margin-top:5px!important;
+}
+.tutorVideo .swiper-pagination{
+	margin:30px 0;
+}
+.tutorVideo .swiper-pagination-bullet{
+	width:200px;
+}   
+/* tutorVideo end */
+/* studentVideo begin */
+.studentVideo{
+	width:100%;
+}
+.studentVideo .studentVideoMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.studentVideo .studentVideoMin ul li{
+	position:relative;
+	float:left;
+	width:285px;
+	margin:10px 7.5px;
+    cursor:pointer;
+}
+.studentVideo .studentVideoMin ul li .img{
+	position:relative;
+	width:285px;
+	height:160px;
+}
+.studentVideo .studentVideoMin ul li .img>img{
+	display:block;
+	width:100%;
+	height:100%;
+	border-radius:7px;
+}
+.studentVideo .studentVideoMin ul li .img .mask{
+	position:absolute;
+	top:0;
+	left:0;
+	width:285px;
+	height:160px;
+	background:rgba(0,0,0,.3);
+}
+.studentVideo .studentVideoMin ul li .imgImg{
+	position:absolute;
+	top:54px;
+	left:50%;
+	transform:translateX(-50%);
+}
+.studentVideo .studentVideoMin ul li .text{
+    width:245px;
+    padding:20px;
+    box-sizing:content-box;
+    font-size:12px;
+    line-height:12px;
+    color:#333;
+    font-weight:400;
+}
+.studentVideo .studentVideoMin ul li .text .line{
+    width:24px;
+    height:1px;
+    background:#333;
+}
+.studentVideo .studentVideoMin ul li .text p{
+	margin-top:10px!important;
+}
+.studentVideo .studentVideoMin ul li .text p:first-child{
+	margin-top:0;
+}
+.studentVideo .swiper-pagination-bullet{
+	width:200px;
+	margin:20px 5px 60px 0;
+}
+/* studentVideo end */
+/* sharing begin */
+.sharing{
+	width:100%;
+}
+.sharing .sharingMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.white .Title{
+	margin-bottom:30px;
+}
+.sharing .sharingMin ul li{
+	float:left;
+	width:380px;
+	margin:15px 10px;
+}
+.sharing .sharingMin ul li .img{
+	position:relative;
+	width:380px;
+	height:214px;
+	overflow:hidden;
+}
+.sharing .sharingMin ul li .img .mask{
+	width:380px;
+	height:214px;
+}
+.sharing .sharingMin ul li .listTitle{
+	font-size:18px;
+    color:#333;
+    line-height:18px;
+    width:500px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    text-align:left;
+    margin-top:20px;
+    font-weight:400;
+}
+.sharing .sharingMin ul li .grade{
+	font-size:12px;
+    color:#333;
+    line-height:12px;
+    margin-top:10px;
+    font-weight:400;
+}
+.sharing .sharingMin ul li .school{
+	font-size:12px;
+    color:#999;
+    line-height:12px;
+    margin-top:20px;
+}
+.sharing .sharingMin ul li .schoolType{
+	width:380px;
+    height:20px;
+    margin-top:10px;
+}
+.sharing .sharingMin ul li .schoolType a{
+	font-size:12px;
+    color:#999;
+    line-height:20px;
+    margin-right:10px;
+    border:1px solid #999;
+    padding:0 10px;
+    border-radius:3px;
+}
+.sharing .swiper-pagination-bullet{
+	width:200px;
+	margin-bottom:60px;
+}  
+/* sharing end */
+/* board begin */
+.board{
+	width:100%;
+}
+.board .boardMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto 60px;
+}
+.imgList ul li{
+	position:relative;
+	float:left;
+	width:285px;
+	margin:10px 7.5px;
+}
+.imgList ul li .img,
+.imgList ul li .img .mask{
+	width:285px;
+	height:160px;
+	overflow:hidden;
+}
+.imgList ul li .float{
+	position:absolute;
+	bottom:0;
+	left:0;
+	background:linear-gradient(rgba(0,0,0,0), rgba(15,15,15,1));
+	font-size:12px;
+    line-height:30px;
+    width:285px;
+    z-index:200;
+    color:#fff;
+    text-align:center;
+}
+/* board end */
+/*artTutor begin */
+.artTutor{
+	width:100%;
+}
+.artTutor .artTutorMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+}
+.artTutor .artTutorMin ul li{
+	position:relative;
+	float:left;
+	width:224px;
+	margin:10px 7.5px;
+	cursor:pointer;
+}
+.artTutor .artTutorMin ul li .img{
+	width:224px;
+	height:454px;
+	overflow:hidden;
+}
+.artTutor .artTutorMin ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+	transition:.5s;
+}
+.artTutor .artTutorMin ul li:hover .img img{
+	transform:scale(1.1);
+}
+.artTutor .artTutorMin ul li .maskOpen{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	width:58px;
+	height:58px;
+}
+.artTutor .artTutorMin ul li .maskOpen img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+/* artTutor end */
+/* events begin */
+.events{
+	width:100%;
+}
+.events .eventsMin{
+	position:relative;
+	width:1200px;
+	margin:0 auto 60px;
+}
+/* events end */

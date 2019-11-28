@@ -1,0 +1,191 @@
+/* container begin */
+.containerActivity{
+	width:100%;
+	margin:38px 0 100px 0;
+}
+.containerActivity .containerActivityMin{
+	width:1200px;
+	margin:0 auto;
+} 
+.containerActivity .left{
+	float:left;
+	width:790px;
+}
+.containerActivity .right{
+	float:right;
+	width:346px;
+}
+.swiper-pagination .swiper-pagination-bullet{
+	background:#90c320;
+}
+.containerActivity .contentClassList ul li{
+	padding:30px 0;
+	box-sizing: content-box;
+}
+.containerActivity .contentClassList ul li .img{
+	float:left;
+	width: 322px;
+    height: 200px;
+    overflow: hidden;
+}
+.containerActivity .contentClassList ul li .text{
+	float:right;
+	width: 448px;
+	margin-top:-7px;
+}
+.containerActivity .contentClassList ul li .img img{
+	display:block;
+	width:100%:
+	height:100%;
+}
+.containerActivity .contentClassList ul li .text .bigTitle{
+	font-size: 18px;
+    width: 100%;
+    height: 60px;
+    line-height: 30px;
+    overflow: hidden;
+}
+.containerActivity .contentClassList ul li .text .bigTitle a{
+	color: #0f0f0f;
+	font-weight:400;
+}
+.containerActivity .contentClassList ul li .text .iconTitle{
+    color: #999;
+    width: 100%;
+    height: 100px;
+    line-height: 25px;
+    margin-top: 0;
+    overflow: hidden;
+}
+.containerActivity .contentClassList ul li .text .iconTitle .icon1{
+	float: left;
+    margin-bottom: 10px;
+}
+.containerActivity .contentClassList ul li .text .iconTitle .icon2{
+    width: 446px;
+    margin-bottom: 10px;
+    font-weight:400;
+}
+.containerActivity .contentClassList ul li .text .iconTitle span{
+	font-size: 16px;
+    color: #909090;
+    line-height: 16px;
+    display: inline-block;
+    margin-left: 15px;
+}
+.containerActivity .contentClassList ul li .listBtn{
+	padding-top: 10px;
+    height: 28px;
+}
+.containerActivity .contentClassList ul li .listBtn span{
+	padding: 6px 12px;
+    color: #fff;
+    font-size: 16px;
+    line-height: 16px;
+    background: #90c320;
+    border-radius:3px;
+    box-sizing: content-box;
+}
+.containerActivity .right h3{
+	font-size: 24px;
+    color: #000;
+    width: 346px;
+    line-height: 100%;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d5d5d5;
+}
+.containerActivity .right .img{
+	position:relative;
+}
+.containerActivity .right .swiper-container{
+	background:#f3f3f3;
+	height:557px;
+	margin-bottom:20px;
+}
+.containerActivity .right ul{
+	margin:20px 0 0;
+}
+.containerActivity .right img{
+	display:block;
+	width: 346px;
+    height: 317px;
+}
+.containerActivity .right li:first-child .swiper-slide  .floatText{
+	position:absolute;
+	left:0;
+	bottom:0;
+	width:100%;
+	text-align: center;
+    font-size: 16px;
+    color: #fff;
+    line-height: 47px;
+    margin-top: -47px;
+    background-color: rgba(132,197,53,0.6);
+    height: 47px;
+}
+.containerActivity .right li:first-child .swiper-slide  .floatText span{
+	font-size: 18px;
+    font-weight: bold;
+}
+.containerActivity .right li:first-child .swiper-slide .text{
+	padding: 20px;
+    width: 306px;
+    height: 208px;
+    font-size: 16px;
+    line-height: 32px;
+    background: #f3f3f3;
+    color: #797979;
+    box-sizing:content-box;
+}
+.containerActivity .right ul li:first-child{
+	border-bottom: 1px solid #d5d5d5;
+}         
+.containerActivity .right ul li:nth-of-type(2),
+.containerActivity .right ul li:nth-of-type(3),
+.containerActivity .right ul li:nth-of-type(4){
+	width: 346px;
+    margin-top: 30px;
+}
+.containerActivity .right ul li .bgImg{
+	position:relative;
+	width:346px;
+	height:305px;
+	overflow:hidden;
+}
+.containerActivity .right ul li .bgImg img{
+	display:block;
+	transition:.6s;
+}
+.containerActivity .right ul li .title{
+	position:absolute; 
+	right: 15px;
+    bottom: 0px;
+    left: 15px;
+    width: 296px;
+    text-align: center;
+    padding: 0 10px 14px;
+    background:#fff;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+.containerActivity .right ul li .title .bigTitle{
+	font-size: 22px;
+    font-weight: bold;
+    color: #0f0f0f;
+    line-height: 100%;
+    padding: 30px 0 26px;
+    background: url(../../images/artAbroad/bgLine1_03.png) no-repeat center bottom;
+}
+.containerActivity .right ul li .text{
+	font-size: 18px;
+    color: #0f0f0f;
+    height: 60px;
+    line-height: 30px;
+    margin-top: 20px;
+    overflow: hidden;
+    font-weight:400;
+}
+.containerActivity .right ul li .bgImg .img:hover img{
+	transform:scale(1.2);
+}        
+/* container end */

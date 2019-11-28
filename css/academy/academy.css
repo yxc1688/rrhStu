@@ -1,0 +1,259 @@
+body{
+	font-family: "微软雅黑", Helvetica, Arial, sans-serif;
+}
+/* banner begin */
+.banner{
+	position:relative;
+	width:100%;
+}
+.banner .img{
+	width:100%;
+	height:450px;
+}
+.banner img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.banner .positionSearch{
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0;
+}
+.banner .positionSearch h1{
+	padding-top:155px;
+    font-size:26px;
+    line-height:26px;
+    color:#fff;
+    padding-top:150px;
+    text-align:center;
+    margin:0 auto;
+}
+.banner .positionSearch .secondTitle{
+	font-size:18px;
+	line-height:18px;
+	padding-top:10px;
+	text-align:center;
+	color:#fff;
+	font-weight:400;
+}
+.banner .positionSearch .inputDiv{ 
+	width:492px;
+	margin:10px auto 0;
+    padding:5px 0 10px 55px;
+	font-size:18px;
+    line-height:18px;
+    color:#999;
+    background:url(../../images/academy/ysyxk_ssk.png) no-repeat center center;
+	background-size:cover;
+}
+.banner .positionSearch .inputDiv input[type="text"]{
+	display:block;
+	width:365px;
+    height:18px;
+    padding:22px 0!important;
+    outline:none;
+    border:0;
+    box-sizing:content-box;
+}
+.banner .positionSearch .acadeList{
+	text-align:center;
+	font-size:12px;
+	line-height:12px;
+	color:#f98e08;
+	margin-top:4px!important;
+}
+.banner .positionSearch .acadeList a{
+	display:inline-block;
+	padding:0 5px;
+	color:#fff;
+}
+/* banner end */
+/* choiceOption begin */
+.choiceOption{
+	width:100%;
+}
+.choiceOption .listMax{
+	width:100%;
+	background:#fafafa;
+}
+.choiceOption .listMax ul{
+	width:1200px;
+	margin:0 auto;
+}
+.choiceOption .listMax ul li{
+	font-size:16px;
+    line-height:32px;
+}
+.choiceOption .listMax ul li span.type{
+	display:inline-block;
+	width:104px;
+	color:#000;
+	font-weight:bold;
+}
+.choiceOption .listMax ul li:nth-of-type(2) span.type{
+	vertical-align:65px;
+}
+.choiceOption .listMax ul li span.typeDefinite{
+	display:inline-block;
+	width:1091px;
+	border-bottom:1px solid #dbdbdb;
+	padding:28px 0 19px 0;
+}
+.choiceOption .listMax ul li a{
+	display:inline-block;
+	margin-right:32px;
+	color:#919191;
+}
+.choiceOption .listMax ul li a.active{
+	color:#84c535;
+}
+.choiceOption .choiceOptionMin{
+	width:1200px;
+	margin:0 auto;
+	margin-top:30px;
+}
+.choiceOption .choiceOptionMin ul li{
+	float:left;
+	width:392px;
+    margin:30px 8px 0 0;
+}
+.choiceOption .choiceOptionMin ul li .img img{
+	display:block;
+	width:100%;
+	height:100%;
+	transition:.6s;
+}
+.choiceOption .choiceOptionMin ul li .img{
+	width:392px;
+	height:240px;
+	overflow:hidden;
+}
+.choiceOption .choiceOptionMin ul li:hover .img img{
+	transform:scale(1.2);
+}
+.choiceOption .choiceOptionMin ul li .bold,
+.choiceOption .choiceOptionMin ul li .difficulty,
+.choiceOption .choiceOptionMin ul li .language,
+.choiceOption .choiceOptionMin ul li .typeList{
+	display:block;
+	margin-top:10px;
+}
+.choiceOption .choiceOptionMin ul li .bold{
+	font-size:18px;
+    color:#000;
+    margin-top:22px;
+}
+.choiceOption .choiceOptionMin ul li .difficulty{
+	font-size:16px;
+    color:#8fc31f;
+}
+.choiceOption .choiceOptionMin ul li .typeList{
+	font-size:16px;
+    color:#000;
+}
+.choiceOption .choiceOptionMin ul li .language{
+	font-size:12px;
+    color:#ccc;
+    line-height:18px;
+    margin-top:20px;  
+}
+.choiceOption .choiceOptionMin ul li .language img{
+	display:inline;
+	margin:0 7px 0 20px;
+    vertical-align:middle; 
+}
+.choiceOption .choiceOptionMin ul li .language img:first-child{
+	margin:0 7px 0 0!important;   
+}
+/*choiceOption end */
+/* aboutArt begin */
+.aboutArt{
+	width:100%;
+}
+.aboutArt .aboutArtMin{
+	width:1200px;
+	margin:0 auto;
+	padding:100px 0;
+}
+.aboutArt .aboutArtMin h2{
+	text-align:center;
+	font-size:30px;
+}
+.aboutArt .aboutArtMin h2 img{
+	display:inline-block;
+	margin:0 24px;
+}
+.aboutArt .aboutArtMin .viewSpan{
+    margin-top:34px;
+}  
+.aboutArt .aboutArtMin .view{
+	display:block;
+	font-family:"Arial";
+}
+.aboutArt .aboutArtMin .view a{
+	font-size:14px;
+    color:#90c320;
+    border-bottom:1px solid #90c320;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li{
+	float:left;
+	width:310px;
+    margin:100px 90px 0 0;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li .titleBold{
+	width:100%;
+    line-height:100%;
+    padding-bottom:20px;
+    background:url(../../images/academy/bgLine.png) no-repeat bottom left;
+    transition:.4s;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li .titleBold a{
+	font-size:18px;
+	color:#0f0f0f;
+	font-weight:400;
+	transition:.4s;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li .page{
+	font-size:15px;
+    color:#5e5e5e;
+    width:100%;
+    height:72px;
+    line-height:24px;
+    margin-top:26px;
+    overflow:hidden; 
+    font-weight:400;
+    transition:.4s;   
+}
+.aboutArt .aboutArtMin .aboutArtList ul li .time{
+	color:#0f0f0f;
+    width:100%;
+    height:16px;
+    line-height:100%;
+    margin-top:15px;
+    font-weight:400;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li .link{
+	display:none;
+	margin-top:10px;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li .link a{
+	font-size:12px;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li:hover .titleBold{
+	background:url(../../images/academy/bgLine_hover.png) no-repeat bottom left;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li:hover .titleBold a{
+	color:#90c320;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li:hover .page{
+	color:#0f0f0f;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li:hover .link{
+	display:block;
+}
+.aboutArt .aboutArtMin .aboutArtList ul li:hover .time{
+	display:none;
+}
+/* aboutArt end */
